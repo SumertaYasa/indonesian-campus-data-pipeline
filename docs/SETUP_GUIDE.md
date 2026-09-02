@@ -96,7 +96,7 @@ Pipeline memerlukan Google Maps API Key untuk pengayaan koordinat geospasial dan
    # [WAJIB] API Key Google Cloud Platform dengan akses ke:
    # 1. Places API (New)
    # 2. Geocoding API
-   GOOGLE_MAPS_API_KEY="AIzaSyC0IEh8tuIs7cGegm7loeRHbCRFSm5PC4k"
+   GOOGLE_MAPS_API_KEY="your_google_maps_api_key_here"
 
    # [OPSIONAL] Cloudinary (Hanya jika ingin upload otomatis banner ke Cloud Storage)
    CLOUDINARY_CLOUD_NAME=""
