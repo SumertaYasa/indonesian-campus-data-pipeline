@@ -1,0 +1,191 @@
+{
+  "status": "success",
+  "data": {
+    "data": [
+      {
+        "id_sp": "3k6P3yeENq-zol47KFPy1KJM7TETq99Luk9OZ_qv7dznUn8NFmGTUvIxBYPDpD0PVqj6rw==",
+        "kab_kota_pt": "Kab. Deli Serdang",
+        "provinsi_pt": "Prov. Sumatera Utara",
+        "akreditasi": "",
+        "nama_singkat": "",
+        "status_pt": "Alih Bentuk",
+        "nama_pt": "Akademi Keperawatan Binalita Sudama",
+        "jenis_pt": "Swasta",
+        "jumlah_prodi": 1,
+        "range_biaya_kuliah": ""
+      },
+      {
+        "id_sp": "k15N1A_Pem2UrNJJVeDmmFA4UqcSy-wcBOloFzyPsNnjwic4-Te8lZLbY5hz2CAzqiBcvg==",
+        "kab_kota_pt": "Kab. Bogor",
+        "provinsi_pt": "Prov. Jawa Barat",
+        "akreditasi": "",
+        "nama_singkat": "",
+        "status_pt": "Pembinaan",
+        "nama_pt": "Sekolah Tinggi Ekonomi dan Bisnis Islam Persatuan Ummat Islam Bogor Jawa Barat ",
+        "jenis_pt": "Agama",
+        "jumlah_prodi": 1,
+        "range_biaya_kuliah": ""
+      },
+      {
+        "id_sp": "774F39bcD--rW9QtycxbfBRbxXHFu4He-KkCQqujntObKDhu4oQldF6QSATib08oEIMJiA==",
+        "kab_kota_pt": "Tidak Diisi",
+        "provinsi_pt": "Prov. Riau",
+        "akreditasi": "",
+        "nama_singkat": "",
+        "status_pt": "Alih Kelola",
+        "nama_pt": "Akademi Kebidanan Dayang Suri",
+        "jenis_pt": "Swasta",
+        "jumlah_prodi": 1,
+        "range_biaya_kuliah": ""
+      },
+      {
+        "id_sp": "51uf2NosCCHmLqwOiN6xTyd8ENO74_-jzbBE4FQZ5aN3_pLOEJyw4Vy15TJ_IxkZE3_kQw==",
+        "kab_kota_pt": "Kota Yogyakarta",
+        "provinsi_pt": "Prov. D.I. Yogyakarta",
+        "akreditasi": "Baik Sekali",
+        "nama_singkat": "STIA \"AAN\"",
+        "status_pt": "Aktif",
+        "nama_pt": "Sekolah Tinggi Ilmu Administrasi Aan",
+        "jenis_pt": "Swasta",
+        "jumlah_prodi": 4,
+        "range_biaya_kuliah": "980.000 - 16.025.000"
+      },
+      {
+        "id_sp": "LTzY2EgmxFj7-5g9e5QRrsgVM7fK2BCZS1tCnuur0ByJmCMLLpNnTEdULxq0m_2hhhukNA==",
+        "kab_kota_pt": "Kota Bandung",
+        "provinsi_pt": "Prov. Jawa Barat",
+        "akreditasi": "",
+        "nama_singkat": "STAI PENUS",
+        "status_pt": "Aktif",
+        "nama_pt": "Sekolah Tinggi Agama Islam Pelita Nusa Bandung Barat",
+        "jenis_pt": "Agama",
+        "jumlah_prodi": 3,
+        "range_biaya_kuliah": ""
+      },
+      {
+        "id_sp": "83UH0tid9YMHUTRWBhsZ0z7AsAMiq7rinw3WMskJLQV0Qs0TiJHqYvvj9iBeOv8jK6EOJA==",
+        "kab_kota_pt": "Kota Banda Aceh",
+        "provinsi_pt": "Prov. Aceh",
+        "akreditasi": "Unggul",
+        "nama_singkat": "UINAR",
+        "status_pt": "Aktif",
+        "nama_pt": "Universitas Islam Negeri Ar-Raniry Banda Aceh",
+        "jenis_pt": "Agama",
+        "jumlah_prodi": 62,
+        "range_biaya_kuliah": "400.000 - 2.927.000"
+      },
+      {
+        "id_sp": "v_IAZ1t6BR2DGuZ6yolmded-WhiSvG4-L34P_bxnLjKvC1UnyCboEMyxA0sk5cUQEyoI_g==",
+        "kab_kota_pt": "Kota Tangerang",
+        "provinsi_pt": "Prov. Banten",
+        "akreditasi": "Baik",
+        "nama_singkat": "STAI Asy-Syukriyyah",
+        "status_pt": "Alih Bentuk",
+        "nama_pt": "STAI Asy-Syukriyyah Tangerang",
+        "jenis_pt": "Agama",
+        "jumlah_prodi": 6,
+        "range_biaya_kuliah": ""
+      },
+      {
+        "id_sp": "XFrK9D7C57bl06_OvVyHDBzo32kVzC8S1x7Rthgh449cUO5KUSSorMhEJCg5V3I04DknIA==",
+        "kab_kota_pt": "Kab. Banyuasin",
+        "provinsi_pt": "Prov. Sumatera Selatan",
+        "akreditasi": "Baik",
+        "nama_singkat": "STTS",
+        "status_pt": "Aktif",
+        "nama_pt": "STT Sriwijaya Palembang",
+        "jenis_pt": "Agama",
+        "jumlah_prodi": 3,
+        "range_biaya_kuliah": "3.600.000 - 6.000.000"
+      },
+      {
+        "id_sp": "XxVZqZtTtHz6Ka06muYNjlyf8vAx3F9aLV7XYruJSiXa2AJovkd6EIvAqKYubkzsXijDkA==",
+        "kab_kota_pt": "Kab. Toba Samosir",
+        "provinsi_pt": "Prov. Sumatera Utara",
+        "akreditasi": "",
+        "nama_singkat": "Akademi Farmasi",
+        "status_pt": "Alih Bentuk",
+        "nama_pt": "Akademi Farmasi Yayasan Tenaga Pembangunan Arjuna Laguboti",
+        "jenis_pt": "Swasta",
+        "jumlah_prodi": 1,
+        "range_biaya_kuliah": ""
+      },
+      {
+        "id_sp": "Zfy0ijof7ZzPmOCSSYTksOSMWQLtpOixagn7GkwraBaxevu0IIBgvb_qre-TZ6_mLzgq_g==",
+        "kab_kota_pt": "Kota Surakarta",
+        "provinsi_pt": "Prov. Jawa Tengah",
+        "akreditasi": "",
+        "nama_singkat": "",
+        "status_pt": "Alih Bentuk",
+        "nama_pt": "Akademi Teknologi Bank Darah Surakarta",
+        "jenis_pt": "Swasta",
+        "jumlah_prodi": 1,
+        "range_biaya_kuliah": ""
+      },
+      {
+        "id_sp": "yqdXEojKpxZgv_2-LNoofMyCXcdxdYAzQcSPUzJOTnyJndYvJJp_FmE1US3Ys1EuQetSZg==",
+        "kab_kota_pt": "Kab. Ciamis",
+        "provinsi_pt": "Prov. Jawa Barat",
+        "akreditasi": "Baik",
+        "nama_singkat": "STEI Ar-Risalah Ciam",
+        "status_pt": "Alih Bentuk",
+        "nama_pt": "STEI Ar Risalah Ciamis Jawa Barat ",
+        "jenis_pt": "Agama",
+        "jumlah_prodi": 2,
+        "range_biaya_kuliah": "950.000 - 1.200.000"
+      },
+      {
+        "id_sp": "5dZuuv0Y11N3Fil4GdZuTBTBc4eQQhzVok_QPfd6qIOjwX3zzqcba-g0PvxjQxeVzGiRLw==",
+        "kab_kota_pt": "Kota Binjai",
+        "provinsi_pt": "Prov. Sumatera Utara",
+        "akreditasi": "",
+        "nama_singkat": "",
+        "status_pt": "Tutup",
+        "nama_pt": "Akademi Kebidanan Eunice Rajawali Binjai",
+        "jenis_pt": "Swasta",
+        "jumlah_prodi": 1,
+        "range_biaya_kuliah": ""
+      },
+      {
+        "id_sp": "2pY9IhndTA8n4F-bo1vZwsy6ieUlfsRU0Hh6jiUHdCjhGgEDrGIKhXaMVu8HOOB0TBvG2w==",
+        "kab_kota_pt": "Kota Jakarta Selatan",
+        "provinsi_pt": "Prov. D.K.I. Jakarta",
+        "akreditasi": "Baik",
+        "nama_singkat": "STDI Interstudi",
+        "status_pt": "Aktif",
+        "nama_pt": "Sekolah Tinggi Desain Interstudi",
+        "jenis_pt": "Swasta",
+        "jumlah_prodi": 4,
+        "range_biaya_kuliah": "9.000.000 - 9.900.000"
+      },
+      {
+        "id_sp": "8QCirUGD74oIO4qLl5Zju6vXRt46jJpIgwIYJMqNeXxMMGhtQ1npXYikqAjJ_BQql4fysQ==",
+        "kab_kota_pt": "Kab. Bengkalis",
+        "provinsi_pt": "Prov. Riau",
+        "akreditasi": "Baik Sekali",
+        "nama_singkat": "Polbeng",
+        "status_pt": "Aktif",
+        "nama_pt": "Politeknik Negeri Bengkalis",
+        "jenis_pt": "Negeri",
+        "jumlah_prodi": 27,
+        "range_biaya_kuliah": "500.000 - 3.000.000"
+      },
+      {
+        "id_sp": "vBiSTZ5BdK5AogrT5w9gyRAAxeh0Oo3fuk3TQQ-asKPYHbSlgbtO0Hj3JEmX01HAEKbKSw==",
+        "kab_kota_pt": "Kota Jakarta Utara",
+        "provinsi_pt": "Prov. D.K.I. Jakarta",
+        "akreditasi": "Unggul",
+        "nama_singkat": "STIP",
+        "status_pt": "Aktif",
+        "nama_pt": "Sekolah Tinggi Ilmu Pelayaran Jakarta",
+        "jenis_pt": "Kedinasan",
+        "jumlah_prodi": 5,
+        "range_biaya_kuliah": "100.000 - 32.475.000"
+      }
+    ],
+    "page": 1,
+    "limit": 15,
+    "totalItems": 6765,
+    "totalPages": 451
+  }
+}

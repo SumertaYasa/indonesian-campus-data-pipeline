@@ -1,0 +1,1206 @@
+Search Bar pada halaman beranda (masih di level root domain)<div class="flex shadow-shadow-2 rounded-2xl custom-ul-material-tailwind">
+  <!-- Section Dropdown Kiri -->
+  <div class="custom-width-material-tailwind rounded-s-2xl relative hidden flex-row items-center justify-center md:flex w-1/5 bg-gradient-to-r from-linear-1-1 to-linear-1-2 cursor-pointer focus:outline-none border-none">
+    <div class="relative w-full min-w-[200px] h-10">
+      
+      <!-- Button Trigger Dropdown -->
+      <button 
+        type="button" 
+        val="pt/" 
+        placeholder="Mahasiswa" 
+        class="peer w-full h-full bg-transparent text-left outline-0 focus:outline-0 disabled:bg-blue-gray-50 disabled:border-0 transition-all border-2 px-3 py-2.5 rounded-[7px] border-[var(--orange)] rounded-[var(--secondary-select)] pb-[42px] text-lg font-medium font-inter text-black border-none focus:border-none active:border-none cursor-pointer outline-none" 
+        aria-expanded="true" 
+        aria-haspopup="listbox" 
+        role="combobox" 
+        fdprocessedid="qu9vas" 
+        aria-controls=":rh:"
+      >
+        <span class="absolute top-2/4 -translate-y-2/4 left-3 pt-0.5" value="pt/">
+          Perguruan Tinggi
+        </span>
+        <div class="grid place-items-center absolute top-2/4 right-2 pt-px w-5 h-5 text-blue-gray-400 rotate-0 -translate-y-2/4 transition-all rotate-180 mt-px">
+          <img src="/static/media/dropdown.954bafd62ce6e61bf71a06ed92a460d2.svg" alt="Dropdown Arrow" />
+        </div>
+      </button>
+      <!-- Label Outlined Material Tailwind -->
+      <label class="flex w-full h-full select-none pointer-events-none absolute left-0 font-normal transition-all -top-1.5 before:content[' '] before:block before:box-border before:w-2.5 before:h-1.5 before:mt-[6.5px] before:mr-1 before:rounded-tl-md before:pointer-events-none before:transition-all peer-disabled:before:border-transparent after:content[' '] after:block after:flex-grow after:box-border after:w-2.5 after:h-1.5 after:mt-[6.5px] after:ml-1 after:rounded-tr-md after:pointer-events-none after:transition-all peer-disabled:after:border-transparent text-[11px] peer-disabled:text-transparent before:border-t-2 before:border-l-2 after:border-t-2 after:border-r-2 leading-tight text-gray-900 before:border-gray-900 after:border-gray-900 after:border-none before:border-none"></label>
+      <!-- List Options Menu -->
+      <ul 
+        tabindex="-1" 
+        role="listbox" 
+        class="w-full max-h-96 bg-white p-3 border border-blue-gray-50 rounded-md shadow-lg shadow-blue-gray-500/10 font-sans text-sm font-normal text-blue-gray-500 overflow-auto focus:outline-none" 
+        id=":rh:" 
+        aria-orientation="vertical" 
+        style="position: absolute; top: 64.25px; left: 0px; overflow: auto; opacity: 1; transform-origin: center top; transform: scale(1); width: 180.375px; z-index: 99;"
+      >
+        <li 
+          id="material-tailwind-select-0" 
+          role="option" 
+          class="pt-[9px] pb-2 px-3 cursor-pointer select-none hover:bg-blue-gray-50 focus:bg-blue-gray-50 hover:bg-opacity-80 focus:bg-opacity-80 outline outline-0 transition-all custom-select-material-tailwind hover:text-white focus:text-white rounded-none leading-none bg-white" 
+          tabindex="1" 
+          aria-selected="false" 
+          data-selected="false"
+        >
+          Semua
+        </li>
+        <li 
+          id="material-tailwind-select-1" 
+          role="option" 
+          class="pt-[9px] pb-2 px-3 cursor-pointer select-none hover:bg-blue-gray-50 focus:bg-blue-gray-50 hover:bg-opacity-80 focus:bg-opacity-80 outline outline-0 transition-all bg-opacity-80 text-blue-gray-900 custom-select-material-tailwind hover:text-white focus:text-white rounded-none leading-none bg-white" 
+          tabindex="1" 
+          aria-selected="false" 
+          data-selected="true"
+        >
+          Perguruan Tinggi
+        </li>
+        <li 
+          id="material-tailwind-select-2" 
+          role="option" 
+          class="pt-[9px] pb-2 px-3 cursor-pointer select-none hover:bg-blue-gray-50 focus:bg-blue-gray-50 hover:bg-opacity-80 focus:bg-opacity-80 outline outline-0 transition-all custom-select-material-tailwind hover:text-white focus:text-white rounded-none leading-none bg-white" 
+          tabindex="1" 
+          aria-selected="false" 
+          data-selected="false"
+        >
+          Program Studi
+        </li>
+        <li 
+          id="material-tailwind-select-3" 
+          role="option" 
+          class="pt-[9px] pb-2 px-3 cursor-pointer select-none hover:bg-blue-gray-50 focus:bg-blue-gray-50 hover:bg-opacity-80 focus:bg-opacity-80 outline outline-0 transition-all custom-select-material-tailwind hover:text-white focus:text-white rounded-none leading-none bg-white" 
+          tabindex="1" 
+          aria-selected="false" 
+          data-selected="false"
+        >
+          Dosen
+        </li>
+        <li 
+          id="material-tailwind-select-4" 
+          role="option" 
+          class="pt-[9px] pb-2 px-3 cursor-pointer select-none hover:bg-blue-gray-50 focus:bg-blue-gray-50 hover:bg-opacity-80 focus:bg-opacity-80 outline outline-0 transition-all custom-select-material-tailwind hover:text-white focus:text-white rounded-none leading-none bg-white" 
+          tabindex="1" 
+          aria-selected="false" 
+          data-selected="false"
+        >
+          Mahasiswa
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- Section Input Search Kanan -->
+  <div class="flex justify-between w-full md:w-4/5 md:p-6 gap-5 bg-white px-3 py-5 border md:rounded-e-2xl rounded-2xl md:rounded-s-none items-center">
+    <input 
+      type="text" 
+      class="w-full outline-none md:text-base text-xs" 
+      placeholder="Kata kunci: [Nama PT] [Kode PT]" 
+      fdprocessedid="kcxr59" 
+    />
+    <div class="cursor-pointer">
+      <img src="/static/media/Search-Icon.6bb83f3401445b719e92308598a11077.svg" alt="cari" />
+    </div>
+  </div>
+</div>Pop-up reCAPTCHA saat menekan tombol search<div class="relative flex flex-col bg-clip-border rounded-xl bg-white text-gray-700 shadow-md mx-auto w-full">
+  <div class="p-6 flex justify-center">
+    <div class="flex-col">
+      
+      <!-- Judul/Pesan Verifikasi -->
+      <p class="text-lg font-medium text-black mb-3 text-center">
+        Silahkan verifikasi terlebih dahulu
+      </p>
+      <!-- Container Tombol dan Keterangan Privacy Policy -->
+      <div class="flex flex-col items-center gap-3">
+        
+        <!-- Tombol Lanjutkan -->
+        <button 
+          type="button" 
+          class="align-middle select-none font-sans font-bold text-center transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none text-xs py-3 px-6 rounded-lg bg-blue-500 text-white shadow-md shadow-blue-500/20 hover:shadow-lg hover:shadow-blue-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none normal-case" 
+          fdprocessedid="bpwdb"
+        >
+          Lanjutkan
+        </button>
+        <!-- Keterangan reCAPTCHA -->
+        <p class="text-xs text-gray-500 text-center max-w-xs">
+          Situs ini dilindungi oleh reCAPTCHA dan berlaku 
+          <a 
+            href="https://policies.google.com/privacy" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            class="underline"
+          >
+            Kebijakan Privasi
+          </a> 
+          serta 
+          <a 
+            href="https://policies.google.com/terms" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            class="underline"
+          >
+            Persyaratan Layanan
+          </a> 
+          Google.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>Tabel pada halaman pencarian (https://pddikti.kemdiktisaintek.go.id/search/pt/UI)Catatan: slug/singkat hanya sebagai contoh untuk mendapatkan struktur html<table class="w-full">
+  <!-- Table Head -->
+  <thead class="bg-primary-border w-full rounded-t-lg py-4">
+    <tr class="text-m font-semibold text-left py-5">
+      <th class="px-4 rounded-tl-md">Kode PT</th>
+      <th class="px-2">Singkatan</th>
+      <th class="px-2">Nama Perguruan TInggi</th>
+      <th class="px-2 rounded-tr-md py-4">Aksi</th>
+    </tr>
+  </thead>
+  <!-- Table Body -->
+  <tbody class="text-s font-medium">
+    
+    <!-- Row 1 -->
+    <tr class="bg-white">
+      <td class="px-4">
+        <span>001002</span>
+      </td>
+      <td class="px-2">
+        <span><strong>UI</strong></span>
+      </td>
+      <td class="px-2">
+        <span>UNIVERSITAS INDONESIA</span>
+      </td>
+      <td class="px-2 text-primary-main cursor-pointer py-4">
+        <a href="/detail-pt/BnQixjRRk3jrgOvB7I6D_i6OKNnseIAPrrKf6PgOmz4uN106RQDf0Tx6Z3iga7GG4dK17Q==" target="_top">
+          Lihat Detail
+        </a>
+      </td>
+    </tr>
+    <!-- Row 2 -->
+    <tr class="bg-secondary-surface">
+      <td class="px-4">
+        <span>211032</span>
+      </td>
+      <td class="px-2">
+        <span><strong>UI</strong> CIREBON</span>
+      </td>
+      <td class="px-2">
+        <span>UNIVERSITAS ISLAM CIREBON</span>
+      </td>
+      <td class="px-2 text-primary-main cursor-pointer py-4">
+        <a href="/detail-pt/mU5q4H_fnKoYzYHLn3wClHZoGi45TKfOLfM97FwRBcAVdvH80Ux1-DGmKAhDh6Jp6ZBIVQ==" target="_top">
+          Lihat Detail
+        </a>
+      </td>
+    </tr>
+    <!-- Row 3 -->
+    <tr class="bg-white">
+      <td class="px-4">
+        <span>213841</span>
+      </td>
+      <td class="px-2">
+        <span>STAI-<strong>UI</strong></span>
+      </td>
+      <td class="px-2">
+        <span>SEKOLAH TINGGI AGAMA ISLAM UNGGUL INDONESIA</span>
+      </td>
+      <td class="px-2 text-primary-main cursor-pointer py-4">
+        <a href="/detail-pt/0N0DL9b3_cDfAuSTigP3C6bZyaHtUitX-SGigJBeFG_nroTHvp_6Xa1k1JvPjCzupR28hw==" target="_top">
+          Lihat Detail
+        </a>
+      </td>
+    </tr>
+    <!-- Row 4 -->
+    <tr class="bg-secondary-surface">
+      <td class="px-4">
+        <span>211002</span>
+      </td>
+      <td class="px-2">
+        <span><strong>UI</strong> AN NUR LAMPUNG</span>
+      </td>
+      <td class="px-2">
+        <span>UNIVERSITAS ISLAM AN NUR LAMPUNG</span>
+      </td>
+      <td class="px-2 text-primary-main cursor-pointer py-4">
+        <a href="/detail-pt/Iyp1lTLi727fFPSvZ7x5fOgZW_auPxUgvvbCOszIDWNOwUr9txfkqXsatMOZi2gCd4YIqA==" target="_top">
+          Lihat Detail
+        </a>
+      </td>
+    </tr>
+    <!-- Row 5 -->
+    <tr class="bg-white">
+      <td class="px-4">
+        <span>211036</span>
+      </td>
+      <td class="px-2">
+        <span><strong>UI</strong> DDI AD</span>
+      </td>
+      <td class="px-2">
+        <span>UNIVERSITAS ISLAM DARUD DA`WAH WAL-IRSYAD A.G.H. ABDURRAHMAN AMBO DALLE</span>
+      </td>
+      <td class="px-2 text-primary-main cursor-pointer py-4">
+        <a href="/detail-pt/QIYiTNBOmSQfIW7rxY2R7BlSJuhtWEDGdANVBhfulgI36t54s9xeyHv7XXOf_dSHOdWBxQ==" target="_top">
+          Lihat Detail
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>Pagination di bawah struktur Tabel diatas<div class="flex justify-center mt-10">
+  <div class="text-black flex align-center justify-center space-x-4">
+    
+    <!-- Tombol Prev (Disabled) -->
+    <button disabled="">
+      <svg 
+        stroke="currentColor" 
+        fill="currentColor" 
+        stroke-width="0" 
+        viewBox="0 0 16 16" 
+        class="text-linear-main-2" 
+        height="1em" 
+        width="1em" 
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path 
+          fill-rule="evenodd" 
+          d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"
+        ></path>
+      </svg>
+    </button>
+    <!-- Informasi Halaman -->
+    <div class="flex items-center justify-center text-s font-medium gap-4">
+      <p class="flex items-center justify-center w-8 h-8 rounded-[4px] border border-linear-1-1">
+        1
+      </p> 
+      <span>dari</span>
+      <p>1</p>
+    </div>
+    <!-- Tombol Next (Disabled) -->
+    <button disabled="" aria-disabled="true">
+      <svg 
+        stroke="currentColor" 
+        fill="currentColor" 
+        stroke-width="0" 
+        viewBox="0 0 16 16" 
+        class="text-linear-main-2" 
+        height="1em" 
+        width="1em" 
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path 
+          fill-rule="evenodd" 
+          d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"
+        ></path>
+      </svg>
+    </button>
+  </div>
+</div>Pop-up penilaian kepuasan di dalam halaman detail kampus<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Survey Form</title>
+  <script src="https://cdn.jsdelivr.net/npm/@cap.js/widget"></script>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+    }
+    .capitalize {
+      text-transform: capitalize;
+    }
+    /* Form Layout */
+    #form-survey {
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: 1.5rem;
+      padding: 1rem;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      background: #fafafa;
+      margin: 1rem auto;
+      font-family: sans-serif;
+      position: relative;
+      width: calc(100% - 2rem);
+    }
+    @media (min-width: 768px) {
+      #form-survey {
+        padding: 2rem 2rem 8rem 2rem;
+        margin: 2rem auto;
+        width: 90%;
+        max-width: 800px;
+      }
+    }
+    @media (min-width: 1024px) {
+      #form-survey {
+        width: 80%;
+      }
+    }
+    #form-survey > *:not(.form-actions) {
+      width: 100%;
+      text-align: center;
+    }
+    /* Actions Section */
+    .form-actions {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.75rem;
+      padding: 1rem 0;
+      margin-top: 1rem;
+      width: 100%;
+      order: 999;
+    }
+    @media (min-width: 768px) {
+      .form-actions {
+        position: absolute;
+        bottom: 1rem;
+        right: 1rem;
+        left: auto;
+        flex-direction: row;
+        justify-content: flex-end;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        padding: 0;
+        margin-top: 0;
+        width: auto;
+      }
+    }
+    .form-actions input[type="submit"] {
+      width: 100%;
+      padding: 0.875rem 1.5rem;
+      border: none;
+      border-radius: 6px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      background-color: #007bff;
+      color: white;
+      transition: background-color 0.2s, opacity 0.2s;
+    }
+    #form-survey input[type="submit"]:disabled,
+    #form-survey input[type="submit"].disabled {
+      background-color: #9ca3af;
+      cursor: not-allowed;
+      opacity: 0.7;
+    }
+    /* Survey Info Header */
+    .survey-info {
+      width: 100%;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      background-color: #fafafa;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+      font-family: "Segoe UI", sans-serif;
+    }
+    @media (min-width: 768px) {
+      .survey-info {
+        padding: 1.5rem;
+      }
+    }
+    @media (min-width: 1024px) {
+      .survey-info {
+        padding: 2rem;
+      }
+    }
+    .survey-title {
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+      text-transform: capitalize;
+      color: #222;
+      line-height: 1.2;
+    }
+    @media (min-width: 768px) {
+      .survey-title {
+        font-size: 2rem;
+      }
+    }
+    .survey-description {
+      font-size: 1rem;
+      color: #555;
+      margin-bottom: 1rem;
+      text-transform: capitalize;
+      line-height: 1.4;
+    }
+    @media (min-width: 768px) {
+      .survey-description {
+        font-size: 1.2rem;
+        margin-bottom: 1.5rem;
+      }
+    }
+    /* Star Rating */
+    .rating-container {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 1rem;
+      user-select: none;
+    }
+    .rating-container p {
+      font-size: 1.25rem;
+      font-weight: 600;
+      text-align: center;
+      padding: 0 1rem;
+    }
+    @media (min-width: 768px) {
+      .rating-container p {
+        font-size: 1.5rem;
+      }
+    }
+    @media (min-width: 1024px) {
+      .rating-container p {
+        font-size: 2rem;
+      }
+    }
+    .star-wrapper {
+      position: relative;
+      display: inline-flex;
+      gap: 0.125rem;
+      flex-wrap: nowrap;
+    }
+    @media (min-width: 768px) {
+      .star-wrapper {
+        gap: 0.25rem;
+      }
+    }
+    .star-wrapper input[type="range"] {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      cursor: pointer;
+      z-index: 10;
+    }
+    .star {
+      font-size: 3rem;
+      transition: color 0.2s ease, transform 0.2s ease;
+      color: #d1d5db;
+      display: inline-block;
+    }
+    @media (min-width: 480px) {
+      .star { font-size: 4rem; }
+    }
+    @media (min-width: 768px) {
+      .star { font-size: 6rem; }
+    }
+    @media (min-width: 1024px) {
+      .star { font-size: 8rem; }
+    }
+    .star.active {
+      color: #facc15;
+      transform: scale(1.1);
+    }
+    /* Aspek Selection */
+    .aspek-container {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      margin-top: 1rem;
+      text-align: center;
+    }
+    @media (min-width: 768px) {
+      .aspek-container {
+        gap: 0.75rem;
+      }
+    }
+    .aspek-wrapper {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      border: 2px solid #d1d5db;
+      border-radius: 0.5rem;
+      padding: 0.625rem 0.875rem;
+      background-color: white;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      font-size: 0.875rem;
+    }
+    @media (min-width: 768px) {
+      .aspek-wrapper {
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+      }
+    }
+    .aspek-checkbox {
+      width: 1.125rem;
+      height: 1.125rem;
+      cursor: pointer;
+      accent-color: #facc15;
+    }
+    @media (min-width: 768px) {
+      .aspek-checkbox {
+        width: 1.25rem;
+        height: 1.25rem;
+      }
+    }
+    .aspek-label {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: #374151;
+      cursor: pointer;
+      user-select: none;
+    }
+    @media (min-width: 768px) {
+      .aspek-label {
+        font-size: 1rem;
+      }
+    }
+    .aspek-wrapper:has(.aspek-checkbox:checked) {
+      background-color: rgba(250, 204, 21, 0.5);
+      border-color: #facc15;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+      color: #1f2937;
+      font-weight: 600;
+    }
+    /* Radio Options */
+    .radio-hidden {
+      display: none;
+    }
+    .radio-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: center;
+    }
+    @media (min-width: 768px) {
+      .radio-group {
+        gap: 0.75rem;
+      }
+    }
+    .radio-label {
+      padding: 0.625rem 1rem;
+      border: 2px solid #d1d5db;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      background-color: white;
+      font-size: 0.875rem;
+      text-align: center;
+      transition: all 0.2s ease;
+      min-width: 5rem;
+      user-select: none;
+    }
+    @media (min-width: 768px) {
+      .radio-label {
+        padding: 0.75rem 1.5rem;
+        font-size: 1rem;
+        min-width: 6rem;
+      }
+    }
+    .radio-hidden:checked + .radio-label {
+      background-color: #3b82f6;
+      border-color: #3b82f6;
+      color: white;
+      font-weight: 600;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+    }
+    /* Question Block */
+    .question-block {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+    .question-block label {
+      font-size: 1rem;
+      font-weight: 600;
+      text-align: left;
+    }
+    @media (min-width: 768px) {
+      .question-block label {
+        font-size: 1.25rem;
+      }
+    }
+    .question-block textarea {
+      width: 100%;
+      padding: 0.75rem;
+      border: 2px solid #d1d5db;
+      border-radius: 0.5rem;
+      font-size: 1rem;
+      font-family: inherit;
+      resize: vertical;
+    }
+    .question-block textarea:focus {
+      outline: none;
+      border-color: #3b82f6;
+    }
+    .char-counter {
+      text-align: right;
+      font-size: 0.75rem;
+      color: #6b7280;
+    }
+    @media (min-width: 768px) {
+      .char-counter {
+        font-size: 0.875rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <form id="form-survey" action="#" method="POST">
+    <!-- Form Actions Container -->
+    <div class="form-actions">
+      <cap-widget 
+        id="cap-widget" 
+        data-cap-api-endpoint="https://spl.jogjaprov.go.id/captcha/baef16f7c7" 
+        required
+      ></cap-widget>
+      
+      <input type="submit" value="Submit" disabled>
+    </div>
+  </form>
+  <script>
+    const surveyToken = "eyJzdXJ2ZXlfaWQiOjIsInNlcnZpY2VfaWQiOjEwMSwiaG9zdCI6Imh0dHBzOi8vcGRkaWt0aS5rZW1kaWt0aXNhaW50ZWsuZ28uaWQsaHR0cDovL2xvY2FsaG9zdDozMDAwLGh0dHBzOi8vcGRkaWt0aS5kZXYua2VtZGlrdGlzYWludGVrLmdvLmlkLGh0dHBzOi8vcGRkaWt0aS5kZXYua2VtZGlrdGlzYWludGVrLmdvLmlkIiwia2V5IjoiVXhsS3dtSEwifQ==";
+    const baseUrl = "https:\/\/surveidigital.spbe.go.id\/embed";
+    const questions = [{"id":1,"survey_id":2,"question_text":"Ceritakan pengalaman anda","question_type":"text","is_required":false,"order":1,"question_category":"common","scale_max_value":250}];
+    const survey = {"id":2,"title":"Penilaian Kepuasan Pengguna Layanan PDDIKTI","description":"Survei ini digunakan dalam rangka meningkatkan layanan yang didukung melalui PDDIKTI","created_at":"2025-11-05T15:36:41.383485+07:00"};
+    const rating = {"id":3,"survey_id":2,"question_text":"rating","question_type":"scale","is_required":true,"order":2,"question_category":"rating","scale_max_value":5};
+    const aspek = {"id":2,"survey_id":2,"question_text":"Menurut Anda, aspek mana yang perlu diperbaiki?","question_type":"multiple_choice_single","is_required":true,"order":1,"question_category":"aspek","scale_max_value":null,"options":[{"id":4,"question_id":2,"option_text":"Persyaratan, Biaya, dan Prosedur"},{"id":5,"question_id":2,"option_text":"Fungsionalitas Layanan Digital"},{"id":6,"question_id":2,"option_text":"Kualitas Informasi"},{"id":7,"question_id":2,"option_text":"Kualitas Sistem"},{"id":8,"question_id":2,"option_text":"Kualitas Layanan"}]};
+    let respondent_name = "";
+    let captchaToken = "";
+    let canSubmit = false;
+    const submitBtn = document.querySelector('#form-survey input[type="submit"]');
+    function updateCanSubmit() {
+      const ratingValue = Number(rating_response[`question_${rating.id}`] ?? 0);
+      const maxValue = Number(rating.scale_max_value ?? 5);
+      const isMaxRating = ratingValue === maxValue;
+      const hasRating = ratingValue > 0;
+      const hasCaptcha = !!captchaToken;
+      const hasRequiredAspeks = !isMaxRating ? aspek_ids.length > 0 : true;
+      canSubmit = hasCaptcha && hasRating && hasRequiredAspeks;
+      if (submitBtn) submitBtn.disabled = !canSubmit;
+    }
+    document.getElementById('cap-widget').addEventListener('solve', (e) => {
+      console.log("token:", e.detail.token);
+      captchaToken = e.detail.token;
+      updateCanSubmit();
+    });
+    function renderSurveyInfo(surveyData, parent) {
+      if (!surveyData || typeof surveyData !== 'object') {
+        console.error("Invalid survey data");
+        return;
+      }
+      const container = document.createElement('div');
+      container.className = 'survey-info';
+      const titleEl = document.createElement('h1');
+      titleEl.textContent = surveyData.title || 'Untitled Survey';
+      titleEl.className = 'survey-title';
+      const descEl = document.createElement('p');
+      descEl.textContent = surveyData.description || 'No description provided.';
+      descEl.className = 'survey-description';
+      container.appendChild(titleEl);
+      container.appendChild(descEl);
+      parent.appendChild(container);
+    }
+    let rating_response = {};
+    function renderStarRating(ratingData, parent) {
+      const max = ratingData?.scale_max_value ?? 5;
+      const container = document.createElement('div');
+      container.className = 'rating-container';
+      const label = document.createElement('p');
+      label.textContent = ratingData?.question_text || 'Rate this:';
+      label.className = 'capitalize';
+      container.appendChild(label);
+      const starWrapper = document.createElement('div');
+      starWrapper.className = 'star-wrapper';
+      container.appendChild(starWrapper);
+      const stars = [];
+      for (let i = 1; i <= max; i++) {
+        const star = document.createElement('span');
+        star.innerHTML = '★';
+        star.className = 'star';
+        stars.push(star);
+        starWrapper.appendChild(star);
+      }
+      const input = document.createElement('input');
+      input.type = 'range';
+      input.min = '0';
+      input.max = String(max);
+      input.value = '0';
+      input.step = '1';
+      input.name = 'rating_' + ratingData?.id;
+      input.required = ratingData.is_required;
+      starWrapper.appendChild(input);
+      function updateStars(value) {
+        stars.forEach((star, idx) => {
+          star.className = idx < value ? 'star active' : 'star';
+        });
+      }
+      const aspekContainer = document.createElement('div');
+      aspekContainer.style.marginTop = '2rem';
+      container.appendChild(aspekContainer);
+      let aspekRendered = false;
+      input.addEventListener('input', e => {
+        const value = Number(e.target.value);
+        updateStars(value);
+        rating_response[`question_${ratingData.id}`] = String(value);
+        updateCanSubmit();
+        if (value > 0 && value < max) {
+          if (!aspekRendered) {
+            aspekContainer.appendChild(renderAspekCheckboxes(aspek));
+            aspekRendered = true;
+          }
+        } else {
+          aspekContainer.innerHTML = '';
+          aspekRendered = false;
+        }
+      });
+      updateStars(0);
+      parent.appendChild(container);
+    }
+    var aspek_ids = [];
+    function renderAspekCheckboxes(aspekData) {
+      const container = document.createElement('div');
+      container.className = 'aspek-container';
+      const title = document.createElement('h3');
+      title.textContent = aspekData.question_text;
+      title.className = 'capitalize';
+      title.style.fontSize = '1.125rem';
+      title.style.marginBottom = '0.5rem';
+      title.style.width = '100%';
+      container.appendChild(title);
+      aspekData.options.forEach((opt, idx) => {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'aspek-wrapper';
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.name = `aspek_${aspekData.id}`;
+        checkbox.value = opt.option_text;
+        checkbox.id = `aspek_${aspekData.id}_${idx}`;
+        checkbox.className = 'aspek-checkbox';
+        const label = document.createElement('label');
+        label.setAttribute('for', checkbox.id);
+        label.className = 'aspek-label';
+        label.textContent = opt.option_text;
+        checkbox.addEventListener('change', (e) => {
+          const checked = e.target.checked;
+          if (checked) {
+            const exists = aspek_ids.some(o =>
+              o.id === aspekData.id && o.option_text === opt.option_text
+            );
+            if (!exists) {
+              aspek_ids.push({
+                id: aspekData.id,
+                ...opt
+              });
+            }
+          } else {
+            const indexToRemove = aspek_ids.findIndex(o =>
+              o.id === aspekData.id && o.option_text === opt.option_text
+            );
+            aspek_ids.splice(indexToRemove, 1);
+          }
+          updateCanSubmit();
+        });
+        wrapper.appendChild(checkbox);
+        wrapper.appendChild(label);
+        container.appendChild(wrapper);
+      });
+      return container;
+    }
+    var nested_common_responses = [];
+    var common_question_response = {};
+    function updateNestedResponse(questionId, value) {
+      const existing = nested_common_responses.find(
+        (r) => r.common_nested_question_id === questionId
+      );
+      if (existing) {
+        existing.answer_text = value;
+      } else {
+        nested_common_responses.push({
+          common_nested_question_id: questionId,
+          answer_text: value,
+        });
+      }
+      common_question_response[`question_${questionId}`] = nested_common_responses.find(n => n.common_nested_question_id === questionId).answer_text;
+    }
+    function renderQuestions(questionsData, parent) {
+      const container = document.createElement('div');
+      container.style.display = 'flex';
+      container.style.flexDirection = 'column';
+      container.style.gap = '2rem';
+      container.style.marginTop = '2rem';
+      questionsData.forEach((q) => {
+        const qWrapper = document.createElement('div');
+        qWrapper.className = 'question-block';
+        const label = document.createElement('label');
+        label.textContent = q.question_text;
+        label.htmlFor = `question_${q.id}`;
+        label.className = 'capitalize';
+        qWrapper.appendChild(label);
+        if (q.question_type === 'text') {
+          const textarea = document.createElement('textarea');
+          textarea.id = `question_${q.id}`;
+          textarea.name = `question_${q.id}`;
+          textarea.rows = 4;
+          textarea.required = q.is_required;
+          const maxChars = q.scale_max_value ?? 300;
+          textarea.maxLength = maxChars;
+          const counter = document.createElement('div');
+          counter.className = 'char-counter';
+          counter.textContent = `0 / ${maxChars}`;
+          textarea.addEventListener('input', (e) => {
+            const value = e.target.value;
+            updateNestedResponse(q.id, value);
+            counter.textContent = `${value.length} / ${maxChars}`;
+            updateCanSubmit();
+          });
+          qWrapper.appendChild(textarea);
+          qWrapper.appendChild(counter);
+        } else if (q.options && q.options.length > 0) {
+          const radioGroup = document.createElement('div');
+          radioGroup.className = 'radio-group';
+          q.options.forEach((opt, idx) => {
+            const wrapper = document.createElement('div');
+            const radio = document.createElement('input');
+            radio.type = 'radio';
+            radio.name = `question_${q.id}`;
+            radio.value = opt.option_text;
+            radio.id = `question_${q.id}_${idx}`;
+            radio.className = 'radio-hidden';
+            radio.required = opt.is_required;
+            const label = document.createElement('label');
+            label.setAttribute('for', radio.id);
+            label.textContent = opt.option_text;
+            label.className = 'radio-label';
+            radio.addEventListener('change', (e) => {
+              updateNestedResponse(q.id, e.target.value);
+              updateCanSubmit();
+            });
+            wrapper.appendChild(radio);
+            wrapper.appendChild(label);
+            radioGroup.appendChild(wrapper);
+          });
+          qWrapper.appendChild(radioGroup);
+        }
+        container.appendChild(qWrapper);
+      });
+      parent.appendChild(container);
+    }
+    let fingerprint = "";
+    async function generateRobustFingerprint() {
+      const components = {};
+      try {
+        const canvas = document.createElement('canvas');
+        const ctx = canvas.getContext('2d');
+        canvas.width = 200;
+        canvas.height = 50;
+        ctx.textBaseline = "top";
+        ctx.font = "14px 'Arial'";
+        ctx.fillStyle = "#f60";
+        ctx.fillRect(125, 1, 62, 20);
+        ctx.fillStyle = "#069";
+        ctx.fillText("CapFingerprint! 😃 🎓", 2, 15); 
+        ctx.fillStyle = "rgba(102, 204, 0, 0.7)";
+        ctx.fillText("CapFingerprint! 😃 🎓", 4, 17);
+        components.canvas = canvas.toDataURL();
+      } catch (e) {
+        components.canvas = 'canvas_blocked';
+      }
+      try {
+        const AudioContext = window.AudioContext || window.webkitAudioContext;
+        if (AudioContext) {
+          const audioCtx = new AudioContext();
+          const oscillator = audioCtx.createOscillator();
+          const gainNode = audioCtx.createGain();
+          oscillator.type = 'triangle';
+          oscillator.frequency.setValueAtTime(10000, audioCtx.currentTime);
+          gainNode.gain.setValueAtTime(0, audioCtx.currentTime); 
+          oscillator.connect(gainNode);
+          gainNode.connect(audioCtx.destination);
+          components.audio = `${oscillator.type}_${oscillator.frequency.value}`;
+          audioCtx.close();
+        }
+      } catch (e) {
+        components.audio = 'audio_blocked';
+      }
+      components.hardware = {
+        cores: navigator.hardwareConcurrency || 0, 
+        memory: navigator.deviceMemory || 0,        
+        languages: navigator.languages ? navigator.languages.join(',') : navigator.language,
+        platform: navigator.platform || 'unknown',
+        timezone: Intl.DateTimeFormat().resolvedOptions().timeZone
+      };
+      components.screen = {
+        w: window.screen.width,
+        h: window.screen.height,
+        depth: window.screen.colorDepth,
+        pixelRatio: window.devicePixelRatio || 1
+      };
+      components.botFlags = {
+        webdriver: navigator.webdriver ? 'yes' : 'no',
+        chromeWindow: !!window.chrome ? 'yes' : 'no',
+        pluginsLength: navigator.plugins ? navigator.plugins.length : 0
+      };
+      const telemetryString = JSON.stringify(components);
+      const msgBuffer = new TextEncoder().encode(telemetryString);
+      const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+    const initSurveyPage = async () => {
+      console.log("initializing...");
+      let form = document.getElementById('form-survey');
+      if (!fingerprint || fingerprint === '') {
+        fingerprint = await generateRobustFingerprint();
+      }
+      const validateRes = await fetch(`${baseUrl}/survey/${surveyToken}/embed/validate/`, {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({'fingerprint': fingerprint}),
+      });
+      if (!validateRes.ok) {
+        throw new Error(`Validate failed with status ${validateRes.status}`);
+      }
+      const validateData = await validateRes.json();
+      const alreadyExists = validateData?.data?.is_already_exist;
+      if (alreadyExists) {
+        console.log("Anda sudah mengisi survei ini sebelumnya.");
+        document.body.innerHTML = `
+          <div style="
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            font-family: sans-serif;
+            text-align: center;
+          ">
+            <h1 class="capitalize" style="font-size: 1.5rem; color: #333;">Anda sudah mengisi survei ini.</h1>
+            <p class="capitalize" style="margin-top: 0.5rem; color: #555;">
+              Terima kasih atas partisipasi Anda.
+            </p>
+          </div>
+        `;
+        return;
+      } else {
+        console.log("render questions here...");
+        renderSurveyInfo(survey, form);
+        renderStarRating(rating, form);
+        renderQuestions(questions, form);
+      }
+    };
+    initSurveyPage();
+    document.addEventListener('DOMContentLoaded', () => {
+      const form = document.getElementById('form-survey');
+      form.addEventListener('submit', (e) => {
+        e.preventDefault();
+        console.log('Form submitted!');
+        mySubmitHandler(e);
+      });
+    });
+    async function mySubmitHandler(e) {
+      if (!captchaToken) {
+        alert('Harap isi captcha');
+        return;
+      }
+      const inputEl = rating_response[`question_${rating.id}`];
+      const ratingValue = Number(inputEl ?? 0);
+      const maxValue = Number(rating.scale_max_value ?? 5);
+      const isMaxRating = ratingValue === maxValue;
+      if (ratingValue === 0) {
+        alert('Silahkan pilih rating');
+        return;
+      }
+      if (!isMaxRating && aspek_ids.length === 0) {
+        alert('Silahkan pilih minimal satu aspek perbaikan sebelum mengirim survey!');
+        return;
+      }
+      let finalAnswers = {[`question_${rating.id}`]: String(ratingValue)};
+      if (!isMaxRating) {
+        Object.assign(finalAnswers, common_question_response);
+        if (aspek_ids.length > 0) {
+          finalAnswers[`question_${aspek.id}`] = aspek_ids.map(a => a.option_text).join('--SEP--');
+        }
+      }
+      if (!fingerprint || fingerprint === '') {
+        fingerprint = await generateRobustFingerprint();
+      }
+      const payload = {
+        respondent_name: respondent_name,
+        recaptcha_token: captchaToken,
+        fingerprint: fingerprint,
+        answers: finalAnswers,
+        jenis_layanan: ""
+      };
+      if (submitBtn) {
+        submitBtn.disabled = true;
+        submitBtn.value = "Mengirim...";
+      }
+      try {
+        const res = await fetch(`${baseUrl}/survey/${surveyToken}/submit/`, {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json'},
+          body: JSON.stringify(payload),
+        });
+        if (res.ok) {
+          document.body.innerHTML = `
+            <div style="
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+              min-height: 100vh;
+              text-align: center;
+              padding: 2rem;
+              font-family: sans-serif;
+            ">
+              <h1 class="capitalize" style="font-size: 1.5rem; color: #007bff; font-weight: bold; margin-bottom: 0.5rem;">Terima kasih!</h1>
+              <p style="color: #555;">Survey telah berhasil terkirim.</p>
+            </div>
+          `;
+        } else {
+          let data;
+          try { data = await res.json(); } catch (err) { }
+          alert(data?.message || 'Terjadi kesalahan saat mengirim survey.');
+          if (submitBtn) {
+            submitBtn.disabled = false;
+            submitBtn.value = "Submit";
+          }
+        }
+      } catch (err) {
+        console.error('Submit error:', err);
+        alert('Gagal terhubung ke server. Coba lagi nanti.');
+        if (submitBtn) {
+          submitBtn.disabled = false;
+          submitBtn.value = "Submit";
+        }
+      }
+    }
+  </script>
+</body>
+</html>detail card kampus 1<div class="mx-auto items-center justify-center max-w-7xl flex my-5">
+  <div class="relative">
+    
+    <!-- Gambar Utama Banner -->
+    <img 
+      src="/images/PT-Banner.svg" 
+      class="w-full rounded-lg relative" 
+      alt="" 
+    />
+    <!-- Overlay Logo / Gambar Tambahan (Kanan) -->
+    <div class="hidden z-10 bg-white bg-opacity-75 absolute top-0 right-12 md:flex justify-center items-center min-h-full min-w-[300px]">
+      <img 
+        draggable="false" 
+        src="" 
+        alt="" 
+        class="max-w-[200px] max-h-[200px] object-fit mx-auto" 
+      />
+    </div>
+    <!-- Overlay Informasi / Teks Banner (Bawah) -->
+    <div class="absolute sm:block hidden bottom-0 left-0 space-y-1 bg-black bg-opacity-20 rounded-b-lg w-full">
+      <div class="p-2 md:p-6">
+        <h1 class="text-xl md:text-4xl font-semibold text-white md:w-2/3">
+          Universitas Indonesia
+        </h1>
+        <p class="text-xs md:text-lg font-medium text-white">
+          Kota Jakarta Pusat, Prov. D.K.I. Jakarta
+        </p>
+      </div>
+    </div>
+  </div>
+</div>detail card kampus 2<div class="lg:p-[32px] md:p-[16px] py-2 bg-white shadow-shadow-2 rounded-md w-full bottom-0">
+  <div class="py-5 overflow-x-auto px-3 grid grid-col-1 lg:grid-cols-2">
+    
+    <!-- Kolom Kiri -->
+    <div>
+      <div>
+        <p class="font-regular text-s">Kode</p>
+        <p class="font-semibold text-l">001002</p>
+      </div>
+      <div class="mt-3">
+        <p class="font-regular text-s">Status</p>
+        <p class="font-semibold text-l">Aktif</p>
+      </div>
+      <div class="mt-3">
+        <p class="font-regular text-s">Akreditasi</p>
+        <p class="font-semibold text-l">Unggul</p>
+      </div>
+      <div class="mt-3">
+        <p class="font-regular text-s">Biaya Kuliah</p>
+        <p class="font-semibold text-l">Rp1 - 20.000.000</p>
+      </div>
+      <div class="mt-3">
+        <p class="font-regular text-s">Indikator Kelengkapan Data</p>
+        <p class="font-semibold text-l text-danger-main">-</p>
+        <p class="font-regular text-s">Tanggal Berdiri</p>
+        <p class="font-semibold text-l flex">2 Februari 1950</p>
+      </div>
+    </div>
+    <!-- Kolom Kanan -->
+    <div>
+      <div class="space-y-1">
+        <p class="font-regular text-s">No SK Pendirian</p>
+        <p class="font-semibold text-l flex">152</p>
+        <p class="font-regular text-s">Tanggal SK Pendirian</p>
+        <p class="font-semibold text-l flex">26 Desember 2000</p>
+      </div>
+      <div class="space-y-1">
+        <p class="font-regular text-s">Kontak</p>
+        
+        <!-- Telepon 1 -->
+        <p class="font-semibold text-l flex">
+          <span class="me-4">
+            <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+            </svg>
+          </span>
+          021-7270020
+        </p>
+        <!-- Telepon 2 / Fax -->
+        <p class="font-semibold text-l flex">
+          <span class="me-4">
+            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 32 32" width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+              <path d="M 12 5 L 12 10 L 10 10 L 10 8 L 4 8 L 4 26 L 6 26 L 6 27 C 6 28.644531 7.355469 30 9 30 C 10.644531 30 12 28.644531 12 27 L 12 26 L 28 26 L 28 10 L 24 10 L 24 5 Z M 14 7 L 22 7 L 22 12 L 14 12 Z M 6 10 L 8 10 L 8 24 L 6 24 Z M 10 12 L 12 12 L 12 14 L 24 14 L 24 12 L 26 12 L 26 24 L 10 24 Z M 13 16 L 13 18 L 15 18 L 15 16 Z M 17 16 L 17 18 L 19 18 L 19 16 Z M 21 16 L 21 18 L 23 18 L 23 16 Z M 13 20 L 13 22 L 15 22 L 15 20 Z M 17 20 L 17 22 L 19 22 L 19 20 Z M 21 20 L 21 22 L 23 22 L 23 20 Z M 8 26 L 10 26 L 10 27 C 10 27.554688 9.554688 28 9 28 C 8.445313 28 8 27.554688 8 27 Z"></path>
+            </svg>
+          </span>
+          021-7270017
+        </p>
+        <!-- Email -->
+        <p class="font-semibold text-l flex">
+          <span class="me-4">
+            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
+              <path fill="none" d="M0 0h24v24H0V0z"></path>
+              <path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6zm-2 0l-8 4.99L4 6h16zm0 12H4V8l8 5 8-5v10z"></path>
+            </svg>
+          </span>
+          humas-ui@ui.ac.id
+        </p>
+        <!-- Website -->
+        <p class="font-semibold text-l flex">
+          <span class="me-4">
+            <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="20" width="20" xmlns="http://www.w3.org/2000/svg">
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+              <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0"></path>
+              <path d="M3.6 9h16.8"></path>
+              <path d="M3.6 15h16.8"></path>
+              <path d="M11.5 3a17 17 0 0 0 0 18"></path>
+              <path d="M12.5 3a17 17 0 0 1 0 18"></path>
+            </svg>
+          </span>
+          www.ui.ac.id
+        </p>
+      </div>
+      <!-- Alamat -->
+      <div class="mt-3">
+        <p class="font-regular text-s">Alamat</p>
+        <div class="hover:text-primary-main hover:underline hover:cursor-pointer text-black flex sm:flex-row flex-col sm:items-start gap-2">
+          <div class="w-1/12">
+            <img draggable="false" src="/static/media/gmaps_detailpt.6d7f7f4c99c6530fe55fdc147a1392c2.svg" alt="" />
+          </div>
+          <p class="font-semibold text-l w-11/12">
+            Jalan Salemba Raya 4 , Kota Jakarta Pusat, Prov. D.K.I. Jakarta
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

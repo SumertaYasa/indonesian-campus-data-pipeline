@@ -1,0 +1,315 @@
+struktur html pada beranda (https://pddikti.kemdiktisaintek.go.id)
+<div class="mx-auto mt-10 flex max-w-7xl items-center justify-center">
+  <div class="grid w-full grid-cols-6 items-center justify-center gap-3 sm:gap-5 lg:grid-cols-9">
+    
+    <!-- 1. Program Studi -->
+    <a 
+      id="book-wrapper" 
+      href="/program-studi" 
+      target="_top" 
+      class="shadow-shadow-2 flex h-[148px] col-span-3 items-center justify-center rounded-lg bg-white text-center cursor-pointer transition-all ease-in-out hover:translate-y-[-8px] lg:col-span-3"
+    >
+      <div>
+        <div class="mb-4 flex items-center justify-center">
+          <div id="book-wrapper" class="wrapper">
+          </div>
+        </div>
+        <p class="text-base font-medium">Program Studi</p>
+      </div>
+    </a>
+
+    <!-- 2. Perguruan Tinggi -->
+    <a 
+      id="buildings-wrapper" 
+      href="/perguruan-tinggi" 
+      target="_top" 
+      class="shadow-shadow-2 flex h-[148px] col-span-3 items-center justify-center rounded-lg bg-white text-center cursor-pointer transition-all ease-in-out hover:translate-y-[-8px] lg:col-span-3"
+    >
+      <div>
+        <div class="mb-4 flex items-center justify-center">
+          <div id="buildings-wrapper" class="wrapper">
+          </div>
+        </div>
+        <p class="text-base font-medium">Perguruan Tinggi</p>
+      </div>
+    </a>
+
+    <!-- 3. Statistik -->
+    <a 
+      id="bar-wrapper" 
+      href="https://data.kemdiktisaintek.go.id/" 
+      target="_top" 
+      class="shadow-shadow-2 flex h-[148px] col-span-3 items-center justify-center rounded-lg bg-white text-center cursor-pointer transition-all ease-in-out hover:translate-y-[-8px] lg:col-span-3"
+    >
+      <div>
+        <div class="mb-4 flex items-center justify-center">
+          <div id="bar-wrapper" class="wrapper">
+            <div class="bar-chart">
+              <div id="bar-item-1" class="bar"></div>
+              <div id="bar-item-2" class="bar"></div>
+              <div id="bar-item-3" class="bar"></div>
+            </div>
+          </div>
+        </div>
+        <p class="text-base font-medium">Statistik</p>
+      </div>
+    </a>
+
+    <!-- 4. Publikasi -->
+    <a 
+      id="books-wrapper" 
+      href="/publikasi" 
+      target="_top" 
+      class="shadow-shadow-2 flex h-[148px] col-span-3 items-center justify-center rounded-lg bg-white text-center cursor-pointer transition-all ease-in-out hover:translate-y-[-8px] lg:col-span-3"
+    >
+      <div>
+        <div class="mb-4 flex items-center justify-center">
+          <div id="books-wrapper" class="wrapper">
+            <div class="books-container">
+              <div id="book1" class="book"></div>
+              <div id="book2" class="book"></div>
+              <div id="book3" class="book"></div>
+            </div>
+          </div>
+        </div>
+        <p class="text-base font-medium">Publikasi</p>
+      </div>
+    </a>
+
+    <!-- 5. Pengumuman -->
+    <a 
+      id="sound-wrapper" 
+      href="/pengumuman" 
+      target="_top" 
+      class="shadow-shadow-2 flex h-[148px] col-span-3 items-center justify-center rounded-lg bg-white text-center cursor-pointer transition-all ease-in-out hover:translate-y-[-8px] lg:col-span-3"
+    >
+      <div>
+        <div class="mb-4 flex items-center justify-center">
+          <div id="sound-wrapper" class="wrapper">
+          </div>
+        </div>
+        <p class="text-base font-medium">Pengumuman</p>
+      </div>
+    </a>
+
+    <!-- 6. Peta -->
+    <a 
+      id="map-wrapper" 
+      href="/pt/peta" 
+      target="_top" 
+      class="shadow-shadow-2 flex h-[148px] col-span-3 items-center justify-center rounded-lg bg-white text-center cursor-pointer transition-all ease-in-out hover:translate-y-[-8px] lg:col-span-3"
+    >
+      <div>
+        <div class="mb-0 flex items-center justify-center">
+          <div id="map-wrapper" class="wrapper">
+          </div>
+        </div>
+        <p class="text-base font-medium">Peta</p>
+      </div>
+    </a>
+
+  </div>
+</div>
+
+stuktur html pada halaman Perguruan tinggi (https://pddikti.kemdiktisaintek.go.id/perguruan-tinggi)
+<div class="w-full md:w-4/5">
+  <!-- Search & Action Bar -->
+  <div class="inline-flex w-full items-center justify-center gap-4">
+    <div class="flex item-center w-full rounded-2xl rounded-l-2xl shadow-shadow-2">
+      <!-- Input Wrapper -->
+      <div class="flex w-[506px] items-center rounded-l-2xl border-y-2 border-l-2 border-y-neutral-50 border-l-neutral-50 bg-white px-6 py-5 border-solid">
+        <input 
+          type="text" 
+          name="search" 
+          autocomplete="off" 
+          placeholder="Cari Perguruan Tinggi" 
+          value="" 
+          class="w-full cursor-text outline-none" 
+        />
+      </div>
+      <!-- Search Button -->
+      <div class="gradient-linear-button flex w-[181px] cursor-pointer items-center justify-center gap-3 rounded-r-2xl border-y-2 border-r-2 border-y-neutral-50 border-r-neutral-50 text-l font-regular">
+        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+          <path d="M1014.64 969.04L703.71 656.207c57.952-69.408 92.88-158.704 92.88-256.208 0-220.912-179.088-400-400-400s-400 179.088-400 400 179.088 400 400 400c100.368 0 192.048-37.056 262.288-98.144l310.496 312.448c12.496 12.497 32.769 12.497 45.265 0 12.48-12.496 12.48-32.752 0-45.263zM396.59 736.527c-185.856 0-336.528-150.672-336.528-336.528S210.734 63.471 396.59 63.471c185.856 0 336.528 150.672 336.528 336.528S582.446 736.527 396.59 736.527z"></path>
+        </svg>
+        Cari
+      </div>
+    </div>
+    <!-- Compare Button -->
+    <div class="flex w-2/5 cursor-not-allowed items-center justify-around rounded-2xl bg-neutral-50 py-5 text-l font-regular" disabled="">
+      Bandingkan (0/3)
+    </div>
+  </div>
+
+  <!-- Cards Grid Container -->
+  <div class="ml-2 flex w-full flex-wrap gap-4 pt-5">
+    
+    <!-- Card 1 -->
+    <div class="flex h-[380px] w-[302px] flex-col justify-around rounded-md bg-neutral-10 pb-4 pt-2 shadow-shadow-2">
+      <!-- Card Header -->
+      <div>
+        <div class="relative flex h-24 items-center">
+          <div class="absolute flex w-full items-center gap-3 px-4">
+            <img class="h-16 w-16" src="/static/media/noLogo.fdf26764f5697e9395aa19d37db00af7.svg" alt="Logo PT" />
+            <div>
+              <p class="mb-1 h-fit text-base font-semibold text-black line-clamp-2">
+                Akademi Keperawatan Binalita Sudama
+              </p>
+              <div class="w-fit rounded-[8px] bg-info-main px-2 py-1 text-sm font-semibold text-white">
+                Alih Bentuk
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mt-1 px-4 text-sm">
+          <h5 class="text-neutral-90 line-clamp-2 font-regular">
+            Kab. Deli Serdang, Prov. Sumatera Utara
+          </h5>
+        </div>
+      </div>
+
+      <!-- Card Stats Grid -->
+      <div class="grid grid-cols-2 gap-3 px-4 text-sm">
+        <div class="flex items-center gap-2">
+          <img src="/static/media/certificate.49e2bea1ba64cc09b3eacf38ffaf847d.svg" alt="certificate" />
+          <p class="text-black line-clamp-2">Tidak Terakreditasi</p>
+        </div>
+        <div class="flex items-center gap-2">
+          <img src="/static/media/prodi.3f1381b5b3214c02a47cef11d28eb2ae.svg" alt="prodi" />
+          <p class="text-black line-clamp-2">1 Program Studi</p>
+        </div>
+        <div class="flex items-center gap-2">
+          <img src="/static/media/graduateCap.45c3b4f546c1c4fea4ccd953dfed31af.svg" alt="graduateCap" />
+          <p class="text-black line-clamp-2">89.30 % per tahun</p>
+        </div>
+      </div>
+
+      <!-- Tuition Info -->
+      <div class="px-4">
+        <div class="text-sm">
+          <div class="mb-1 flex items-center gap-2">
+            <p class="font-semibold">Biaya Kuliah</p>
+            <img src="/static/media/warningCircle.d865d8b39c5ed8985918ecd7545fa741.svg" alt="info" />
+          </div>
+          <p class="font-regular">Rp -</p>
+        </div>
+      </div>
+
+      <!-- Card Actions -->
+      <div class="flex gap-2 px-4">
+        <button class="flex h-14 w-[200px] cursor-pointer items-center justify-center rounded-md border-[1px] border-primary-main bg-neutral-10 text-center text-primary-main hover:border-none hover:bg-gradient-to-r hover:from-linear-main-1 hover:to-linear-main-2 hover:text-neutral-10">
+          Lihat Detail
+        </button>
+        <button class="flex h-14 w-16 cursor-pointer items-center justify-center rounded-md border-[1px] border-primary-main fill-[#5533BF] hover:border-none hover:bg-gradient-to-r hover:from-linear-main-1 hover:to-linear-main-2 hover:fill-white">
+          <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+            <path d="M14.667 17.3334H6.66699V14.6667H14.667V6.66675H17.3337V14.6667H25.3337V17.3334H17.3337V25.3334H14.667V17.3334Z"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Card 2 -->
+    <div class="flex h-[380px] w-[302px] flex-col justify-around rounded-md bg-neutral-10 pb-4 pt-2 shadow-shadow-2">
+      <!-- Card Header -->
+      <div>
+        <div class="relative flex h-24 items-center">
+          <div class="absolute flex w-full items-center gap-3 px-4">
+            <img class="h-16 w-16" src="/static/media/noLogo.fdf26764f5697e9395aa19d37db00af7.svg" alt="Logo PT" />
+            <div>
+              <p class="mb-1 h-fit text-base font-semibold text-black line-clamp-2">
+                Sekolah Tinggi Ekonomi dan Bisnis Islam Persatuan Ummat Islam Bogor Jawa Barat
+              </p>
+              <div class="w-fit rounded-[8px] bg-warning-main px-2 py-1 text-sm font-semibold text-white">
+                Pembinaan
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mt-1 px-4 text-sm">
+          <h5 class="text-neutral-90 line-clamp-2 font-regular">
+            Kab. Bogor, Prov. Jawa Barat
+          </h5>
+        </div>
+      </div>
+
+      <!-- Card Stats Grid -->
+      <div class="grid grid-cols-2 gap-3 px-4 text-sm">
+        <div class="flex items-center gap-2">
+          <img src="/static/media/certificate.49e2bea1ba64cc09b3eacf38ffaf847d.svg" alt="certificate" />
+          <p class="text-black line-clamp-2">Tidak Terakreditasi</p>
+        </div>
+        <div class="flex items-center gap-2">
+          <img src="/static/media/prodi.3f1381b5b3214c02a47cef11d28eb2ae.svg" alt="prodi" />
+          <p class="text-black line-clamp-2">1 Program Studi</p>
+        </div>
+        <div class="flex items-center gap-2">
+          <img src="/static/media/graduateCap.45c3b4f546c1c4fea4ccd953dfed31af.svg" alt="graduateCap" />
+          <p class="text-black line-clamp-2">- % per tahun</p>
+        </div>
+      </div>
+
+      <!-- Tuition Info -->
+      <div class="px-4">
+        <div class="text-sm">
+          <div class="mb-1 flex items-center gap-2">
+            <p class="font-semibold">Biaya Kuliah</p>
+            <img src="/static/media/warningCircle.d865d8b39c5ed8985918ecd7545fa741.svg" alt="info" />
+          </div>
+          <p class="font-regular">Rp -</p>
+        </div>
+      </div>
+
+      <!-- Card Actions -->
+      <div class="flex gap-2 px-4">
+        <button class="flex h-14 w-[200px] cursor-pointer items-center justify-center rounded-md border-[1px] border-primary-main bg-neutral-10 text-center text-primary-main hover:border-none hover:bg-gradient-to-r hover:from-linear-main-1 hover:to-linear-main-2 hover:text-neutral-10">
+          Lihat Detail
+        </button>
+        <button class="flex h-14 w-16 cursor-pointer items-center justify-center rounded-md border-[1px] border-primary-main fill-[#5533BF] hover:border-none hover:bg-gradient-to-r hover:from-linear-main-1 hover:to-linear-main-2 hover:fill-white">
+          <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+            <path d="M14.667 17.3334H6.66699V14.6667H14.667V6.66675H17.3337V14.6667H25.3337V17.3334H17.3337V25.3334H14.667V17.3334Z"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Pagination Controls -->
+  <div class="flex flex-col gap-5 pt-5 text-m md:flex-row md:justify-between">
+    <!-- Left Pagination Info -->
+    <div class="flex items-center justify-center gap-2 md:justify-start">
+      <span>Halaman 1 dari 451</span>
+      <span class="bg-neutral-50 bg-clip-text px-2 text-transparent"> | </span>
+      <span>1</span> - <span>15</span> dari <span>6765</span>
+      <span class="bg-neutral-50 bg-clip-text px-2 text-transparent"> | </span>
+      <div class="flex flex-col items-center gap-2 sm:flex-row">
+        Tampilkan
+        <select 
+          name="pagination" 
+          class="w-[88px] appearance-none rounded-[5px] border-[1px] border-neutral-50 bg-transparent bg-no-repeat py-1 pl-[5px] pr-6 text-start font-medium text-m bg-right-center"
+          style="background-image: url('/static/media/downFill.93c43576f496179d74e0fe6356e12aa3.svg'); background-position: right 5px center;"
+        >
+          <option value="9">9</option>
+          <option value="15">15</option>
+          <option value="27">27</option>
+          <option value="48">48</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Right Pagination Buttons -->
+    <div class="flex items-center justify-center align-middle gap-1 md:justify-end md:align-end">
+      <button disabled="">
+        <img src="/static/media/leftArrow.535ce0c252ecf6be7d8274d316eae7af.svg" alt="left" />
+      </button>
+      <div class="flex items-center gap-3">
+        <div class="rounded-[5px] border-[1px] border-neutral-50 bg-transparent px-3 py-[3px] font-medium">1</div>
+        <div>dari</div>
+        <div class="rounded-[5px] bg-transparent px-3 py-[3px] font-medium">451</div>
+      </div>
+      <button>
+        <img src="/static/media/rightArrow.8cabd7f2d07fff35442a880af93f8bfe.svg" alt="right" />
+      </button>
+    </div>
+  </div>
+</div>

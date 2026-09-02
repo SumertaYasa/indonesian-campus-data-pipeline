@@ -1,0 +1,2800 @@
+{
+  "is_search_engine": false,
+  "locale": "id",
+  "breadcrumbs": [
+    {
+      "name": "Directory",
+      "url": "/directory"
+    },
+    {
+      "name": "Universitas Indonesia (UI)",
+      "url": "/directory/universitas-indonesia"
+    }
+  ],
+  "currentUser": null,
+  "params": {
+    "id": "universitas-indonesia"
+  },
+  "currentPath": "/directory/universitas-indonesia",
+  "school": {
+    "id": "591c31985651430052000001",
+    "slug": "universitas-indonesia",
+    "name": "Universitas Indonesia (UI)",
+    "logo": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzkvNGY0OGQ0Y2QtOTVlZS00ZWFiLTgyNDktYjE1OTQxZjJmMzdhLyJdLFsicCIsInRodW1iIiwiODh4ODgiXV0",
+    "images": [
+      {
+        "id": "5a6702218020390ce00004bb",
+        "description": null,
+        "original_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzMvNzA2ZWNhMjctZTkzZC00ZjM0LWI0NTAtNTFjNDMwNjgwOGYwLyJdLFsicCIsInRodW1iIiwiMTIwMHhcdTAwM2UiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "thumb_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzMvNzA2ZWNhMjctZTkzZC00ZjM0LWI0NTAtNTFjNDMwNjgwOGYwLyJdLFsicCIsInRodW1iIiwiODh4ODgiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "medium_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzMvNzA2ZWNhMjctZTkzZC00ZjM0LWI0NTAtNTFjNDMwNjgwOGYwLyJdLFsicCIsInRodW1iIiwiNDE0eDE2MCJdLFsicCIsImNvbnZlcnQiLCItY29sb3JzcGFjZSBzUkdCIC1zdHJpcCIseyJmb3JtYXQiOiJqcGcifV1d"
+      },
+      {
+        "id": "5a6702228020390ce00004bd",
+        "description": null,
+        "original_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzQvYjNmN2UxOTMtMjk3Zi00ZDIzLWE3OGItMjIzOWQzZjI2MDhlLyJdLFsicCIsInRodW1iIiwiMTIwMHhcdTAwM2UiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "thumb_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzQvYjNmN2UxOTMtMjk3Zi00ZDIzLWE3OGItMjIzOWQzZjI2MDhlLyJdLFsicCIsInRodW1iIiwiODh4ODgiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "medium_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzQvYjNmN2UxOTMtMjk3Zi00ZDIzLWE3OGItMjIzOWQzZjI2MDhlLyJdLFsicCIsInRodW1iIiwiNDE0eDE2MCJdLFsicCIsImNvbnZlcnQiLCItY29sb3JzcGFjZSBzUkdCIC1zdHJpcCIseyJmb3JtYXQiOiJqcGcifV1d"
+      },
+      {
+        "id": "5a6702238020390ce00004bf",
+        "description": null,
+        "original_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzUvNTdlYWYzYzItMDc2MS00OWM1LThlOTUtNjNkMDk3ZGY1NWI4LyJdLFsicCIsInRodW1iIiwiMTIwMHhcdTAwM2UiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "thumb_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzUvNTdlYWYzYzItMDc2MS00OWM1LThlOTUtNjNkMDk3ZGY1NWI4LyJdLFsicCIsInRodW1iIiwiODh4ODgiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "medium_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzUvNTdlYWYzYzItMDc2MS00OWM1LThlOTUtNjNkMDk3ZGY1NWI4LyJdLFsicCIsInRodW1iIiwiNDE0eDE2MCJdLFsicCIsImNvbnZlcnQiLCItY29sb3JzcGFjZSBzUkdCIC1zdHJpcCIseyJmb3JtYXQiOiJqcGcifV1d"
+      },
+      {
+        "id": "5a6702248020390ce00004c1",
+        "description": null,
+        "original_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzYvMWExY2U0ZTAtNTJkYi00NGYyLWExMTgtMGZmZGY0NjI1MDZiLyJdLFsicCIsInRodW1iIiwiMTIwMHhcdTAwM2UiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "thumb_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzYvMWExY2U0ZTAtNTJkYi00NGYyLWExMTgtMGZmZGY0NjI1MDZiLyJdLFsicCIsInRodW1iIiwiODh4ODgiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "medium_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzYvMWExY2U0ZTAtNTJkYi00NGYyLWExMTgtMGZmZGY0NjI1MDZiLyJdLFsicCIsInRodW1iIiwiNDE0eDE2MCJdLFsicCIsImNvbnZlcnQiLCItY29sb3JzcGFjZSBzUkdCIC1zdHJpcCIseyJmb3JtYXQiOiJqcGcifV1d"
+      },
+      {
+        "id": "5a6702268020390ce00004c3",
+        "description": null,
+        "original_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzgvZDIwMTdhZjMtODE4OS00ZWFjLTllNjktZGUyOTA1YTAwNjQ4LyJdLFsicCIsInRodW1iIiwiMTIwMHhcdTAwM2UiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "thumb_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzgvZDIwMTdhZjMtODE4OS00ZWFjLTllNjktZGUyOTA1YTAwNjQ4LyJdLFsicCIsInRodW1iIiwiODh4ODgiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "medium_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzgvZDIwMTdhZjMtODE4OS00ZWFjLTllNjktZGUyOTA1YTAwNjQ4LyJdLFsicCIsInRodW1iIiwiNDE0eDE2MCJdLFsicCIsImNvbnZlcnQiLCItY29sb3JzcGFjZSBzUkdCIC1zdHJpcCIseyJmb3JtYXQiOiJqcGcifV1d"
+      },
+      {
+        "id": "5a6702278020390ce00004c5",
+        "description": null,
+        "original_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzkvMTc3YWU0NGQtOWExOC00MmNlLWE3MWYtYzAzZWNkNmE1OWRlLyJdLFsicCIsInRodW1iIiwiMTIwMHhcdTAwM2UiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "thumb_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzkvMTc3YWU0NGQtOWExOC00MmNlLWE3MWYtYzAzZWNkNmE1OWRlLyJdLFsicCIsInRodW1iIiwiODh4ODgiXSxbInAiLCJjb252ZXJ0IiwiLWNvbG9yc3BhY2Ugc1JHQiAtc3RyaXAiLHsiZm9ybWF0IjoianBnIn1dXQ",
+        "medium_url": "https://media.quipper.com/media/W1siZiIsIjIwMTgvMDEvMjMvMDkvMzYvMzkvMTc3YWU0NGQtOWExOC00MmNlLWE3MWYtYzAzZWNkNmE1OWRlLyJdLFsicCIsInRodW1iIiwiNDE0eDE2MCJdLFsicCIsImNvbnZlcnQiLCItY29sb3JzcGFjZSBzUkdCIC1zdHJpcCIseyJmb3JtYXQiOiJqcGcifV1d"
+      }
+    ],
+    "brochure": "/media/W1siZiIsIjIwMTgvMTAvMjUvMDYvNTAvMTEvNDNiNGI1MDUtZTNjNC00MDk0LThjMGItOTdmYjUyYTY1NTA1LyJdXQ.pdf?filename=Universitas+Indonesia+%28UI%29.pdf",
+    "facilities": {
+      "Perpustakaan Pusat": 1,
+      "Perpustakaan Fakultas": 16,
+      "Rumah Sakit Pendidikan": 1,
+      "Unit/Klinik Kesehatan Mahasiswa": 2,
+      "Auditorium": 22,
+      "Gedung Sebaguna": 6,
+      "Asrama Mahasiswa": 1,
+      "Stadion/Lapangan Olah Raga": 31,
+      "Gedung Olah Raga": 2,
+      "Kolam Renang": 2,
+      "Laboratorium": 138,
+      "Studio Penyiaran": 3,
+      "Kantor Bank": 10,
+      "Tempat Ibadah": 4,
+      "Bus Kampus": 22,
+      "Jalur Sepeda": 0,
+      "Toko Buku": 4,
+      "Koperasi Mahasiswa": 8,
+      "Penerbitan": 3,
+      "Pusat/Lembaga Penelitan": 65,
+      "Pusat Komputer": 30,
+      "Pusat Pengendalian Keamanan": 2
+    },
+    "tuition_fee": "<p&gt;<span style=\"font-weight: 400;\"&gt;Secara umum, terdapat dua mekanisme pembayaran biaya operasional (BOP) atau biaya per semester yang dikeluarkan selama mengikuti perkuliahan program Sarjana Reguler di UI. Pertama adalah BOP-Berkeadilan, di mana pengajuan tarif uang kuliah tunggal (UKT) yang dibayarkan per semester disesuaikan dengan kemampuan kalian. Terkait mekanisme ini, terdapat sejumlah data dan dokumen pendukung yang harus disertai dalam proses pengajuannya. Kemudian terdapat BOP-Pilihan, yakni jumlah UKT ditentukan sendiri sesuai keinginan untuk berpartisipasi dalam membantu biaya operasional pendidikan sarjana reguler.</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Tarif UKT untuk mekanisme </span&gt;<strong&gt;BOP-Berkeadilan</strong&gt;<span style=\"font-weight: 400;\"&gt; adalah sebagai berikut (dalam Rupiah):&amp;nbsp;</span&gt;</p&gt;\r\n\r\n<table&gt;\r\n<tbody&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<strong&gt;Rumpun</strong&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<strong&gt;Sains Teknologi dan Kesehatan (IPA)&amp;nbsp;</strong&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<strong&gt;Sosial Humaniora (IPS)</strong&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 1</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;0 s.d. 500.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;0 s.d. 500.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 2</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;500.000 s.d. 1.000.000&amp;nbsp;</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;500.000 s.d. 1.000.000&amp;nbsp;</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 3</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;1.000.000 s.d. 2.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;1.000.000 s.d. 2.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 4</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;2.000.000 s.d. 4.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;2.000.000 s.d. 3.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 5</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;4.000.000 s.d. 6.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;3.000.000 s.d. 4.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 6</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;6.000.000 s.d. 7.500.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;4.000.000 s.d. 5.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n</tbody&gt;\r\n</table&gt;\r\n<p&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Tarif UKT untuk mekanisme dan </span&gt;<strong&gt;BOP-PIlihan</strong&gt;<span style=\"font-weight: 400;\"&gt; adalah sebagai berikut (dalam Rupiah) :&amp;nbsp;</span&gt;</p&gt;\r\n\r\n<table&gt;\r\n<tbody&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<strong&gt;Rumpun</strong&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<strong&gt;Sains Teknologi dan Kesehatan (IPA)&amp;nbsp;</strong&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<strong&gt;Sosial Humaniora (IPS)</strong&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 1</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;10.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;7.500.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 2</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;12.500.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;10.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 3</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;15.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;12.500.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 4</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;17.500.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;15.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas 5</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;20.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;17.500.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n</tbody&gt;\r\n</table&gt;\r\n<p&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Sementara untuk program Sarjana Non Reguler (S1 Paralel) adalah sebagai berikut (dalam Rupiah):</span&gt;</p&gt;\r\n\r\n<table&gt;\r\n<tbody&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<strong&gt;Fakultas</strong&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<strong&gt;BOP</strong&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<strong&gt;Uang Pangkal</strong&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Matematika dan IPA</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;12.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;25.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Kedokteran Gigi</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;20.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;25.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Teknik</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;10.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;50.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Hukum</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;13.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;16.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Ekonomi dan Bisnis</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;15.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;34.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Ilmu Pengetahuan Budaya</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;10.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;15.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Psikologi</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;14.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;16.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Ilmu Sosial dan Ilmu Politik</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;12.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;14.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Ilmu Komputer</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;12.500.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;40.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Farmasi</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;13.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;20.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Fakultas Ilmu Administrasi</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;11.500.000</span&gt;</p&gt;\r\n</td&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;16.000.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n</tbody&gt;\r\n</table&gt;",
+    "entrance_exam": "<p&gt;<span style=\"font-weight: 400;\"&gt;Berikut informasi seleksi masuk yang dapat Quipperian jadikan bahan rujukan jika kalian menjadikan UI sebagai pilihan untuk melanjutkan studi selanjutnya!&amp;nbsp;&amp;nbsp;</span&gt;</p&gt;\r\n\r\n<table&gt;\r\n<tbody&gt;\r\n<tr&gt;\r\n<th rowspan=\"4\"&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;1.</span&gt;</p&gt;\r\n</th&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Seleksi Masuk</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Seleksi Masuk UI (SIMAK UI) 2020</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Tahapan</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Pendaftaran: 19 Juni-19 Juli</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Unggah dokumen</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Pembayaran</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Ujian S1 Kelas Internasional: 19 Juli</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Ujian Vokasi/S1 Reguler/S1 Paralel: 26-30 Juli</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Pengumuman Hasil SIMAK: 5 Agustus</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Biaya Pendaftaran</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Vokasi/S1 Paralel:&amp;nbsp;</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Biaya 2 pilihan: Rp400.000</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Biaya 3 pilihan: Rp500.000</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Biaya tambahan: Rp60.000/pilihan</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Kelas Internasional: Rp1.300.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Waktu Pelaksanaan</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Juni-Agustus</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th rowspan=\"4\"&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;2.</span&gt;</p&gt;\r\n</th&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Seleksi Masuk</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Prestasi dan Pemerataan Kesempatan Belajar (PPKB)</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Tahapan</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Pendaftaran: 3 Februari-6 Maret</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Unggah dokumen: 2 Februari-6 Maret</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Pembayaran: 3 Februari-6 Maret</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Pengumuman hasil seleksi: 13 April*</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;*Tanggal tentatif</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Biaya Pendaftaran</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Rp750.000</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Waktu Pelaksanaan</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Februari-Maret</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th rowspan=\"4\"&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;3.</span&gt;</p&gt;\r\n</th&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Seleksi Masuk</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;SNMPTN</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Tahapan</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<ul&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Registrasi Akun LTMPT</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Pengisian PDSS (15 Januari-8 Februari 2020)</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Verifikasi PDSS (15 Januari-8 Februari 2020)</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Pendaftaran online</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Pencetakan kartu peserta</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Proses seleksi</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Pengumuman (</span&gt;<span style=\"font-weight: 400;\"&gt;4 April 2020)</span&gt;</li&gt;\r\n</ul&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Biaya Pendaftaran</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Gratis</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Waktu Pelaksanaan</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;15 Januari-4 April 2020</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th rowspan=\"4\"&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;4.</span&gt;</p&gt;\r\n</th&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Seleksi Masuk</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;UTBK-SBMPTN</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Tahapan</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<ul&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Registrasi akun Siswa LTMPT (</span&gt;<span style=\"font-weight: 400;\"&gt;7 Februari-5 April 2020)</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Verifikasi dan validasi data</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Pendaftaran (</span&gt;<span style=\"font-weight: 400;\"&gt;2-20 Juni 2020)</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Pembayaran UTBK</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Tes Potensi Skolastik (TPS) dan Tes Kompetensi Akademik (TKA) (</span&gt;<span style=\"font-weight: 400;\"&gt;5-12 Juli 2020)</span&gt;</li&gt;\r\n<li style=\"font-weight: 400;\"&gt;<span style=\"font-weight: 400;\"&gt;Pengumuman SBMPTN (</span&gt;<span style=\"font-weight: 400;\"&gt;25 Juli 2020)</span&gt;</li&gt;\r\n</ul&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Biaya Pendaftaran</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Rp200.000 (Saintek dan Soshum)</span&gt;</p&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Rp300.000 (ujian Campuran)</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n<tr&gt;\r\n<th&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;Waktu Pelaksanaan</span&gt;</p&gt;\r\n</th&gt;\r\n<td&gt;\r\n<p&gt;<span style=\"font-weight: 400;\"&gt;7 Februari-25 Juli 2020</span&gt;</p&gt;\r\n</td&gt;\r\n</tr&gt;\r\n</tbody&gt;\r\n</table&gt;",
+    "scholarship": "<p&gt;Quipperian, kalian bisa mendapatkan informasi terkait periode pendaftaran, status pendaftaran, kuota penerima beasiswa, dan info terkait lainnya melalui situs resmi yang ada di Universitas Indonesia ya. Meskipun begitu, beberapa informasi baru bisa diperoleh jika kalian sudah diterima sebagai mahasiswa UI karena situs tersebut membutuhkan akun <em&gt;login</em&gt;. Berikut merupakan gambaran beasiswa yang kalian dapat peroleh jika menjadi mahasiswa UI:</p&gt;<ol&gt;  <li&gt;Beasiswa dari Pemerintah melalui Bidikmisi-Dikti, PPA, LPDP, dll.</li&gt;  <li&gt;Beasiswa dari pihak lain seperti Beasiswa Bank Mandiri 2017, <em&gt;Lotte Scholarship Foundation</em&gt; 2017, Beasiswa Yayasan Mari Lari-Indorunners Jalur Masuk SBMPTN 2017, Beasiswa <em&gt;Computer Science Leaders Scholarship</em&gt; 2017 Jalur Masuk SBMPTN, Beasiswa Yayasan Asahi Glass Indonesia 2017/2018, Beasiswa BNI AM Makara, dll.</li&gt;  <li&gt;Beasiswa dari fakultas juga diberikan melalui kegiatan yang diselenggarakan oleh perkumpulan alumni fakultas tersebut, seperti dari fakultas kedokteran, hukum, atau program beasiswa dari yayasan tertentu.<li&gt;Beasiswa dari universitas meliputi program beasiswa UI, beasiswa paruh waktu, dan bantuan biaya pendidikan.<br /&gt;<br /&gt;</li&gt;</ol&gt;",
+    "paid": false,
+    "article_tags": [],
+    "campus_sector": "public_university",
+    "profile": {
+      "description": "Sejarah Universitas Indonesia dimulai dari tahun 1849, saat Pemerintah Kolonial Belanda membangun sebuah sekolah tinggi ilmu kesehatan. Nama UI sendiri baru resmi digunakan sejak tahun 1950, itupun masih menggunakan bahasa Belanda, yakni Universiteit Indonesia. Saat ini, UI memiliki 14 fakultas, dengan lebih dari 291 program studi.  \r\n\r\nMenjadi universitas terbaik di Indonesia, menjadikan UI sebagai tujuan favorit untuk melanjutkan pendidikan tinggi. Tingkat persaingan untuk masuk ke UI juga terbilang sangat ketat lho. Setiap tahunnya, rata-rata persentase pendaftar dan diterima untuk program S1 Reguler berada pada kisaran 3%. Kalau kamu menjadikan UI sebagai kampus impian, pastikan untuk belajar dengan sungguh-sungguh dari sekarang ya! Yuk cek profil lengkap dari kampus yang dikenal dengan jas kuningnya ini!",
+      "accreditation": "A",
+      "tuition_fee_snippet": "Rp6.000.000 kisaran per-semester",
+      "teacher_count": 2076,
+      "student_count": 45552,
+      "sector": "public",
+      "teacher_student_ratio": "1:21",
+      "address": "Kampus Baru UI, Kota Depok, Jakarta",
+      "website": "www.ui.ac.id",
+      "email": "humas-ui@ui.ac.id",
+      "phone_number": "021-7270020",
+      "social_media": {
+        "blog": "",
+        "facebook": "https://www.facebook.com/ui.ac.id",
+        "instagram": "https://www.instagram.com/univ_indonesia",
+        "youtube": "",
+        "twitter": "https://www.twitter.com/univ_indonesia"
+      },
+      "main_video": null
+    },
+    "faculties": [
+      {
+        "id": "591c3198565143005200001f",
+        "slug": "fakultas-ilmu-komputer",
+        "name": "Fakultas Ilmu Komputer",
+        "description": "Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI) berdiri sejak tahun 1993. Pendirian fakultas ini tidak dapat dipisahkan dari pendirian Pusat Ilmu Komputer Universitas Indonesia lho Quipperian. Lembaga ini didirikan dengan tujuan untuk mengembangkan ilmu komputer dan pemahaman mengenai teknologi di Indonesia.",
+        "applicant_count": 1728,
+        "accepted_count": 119,
+        "admission_rate": 6.9,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 90",
+        "static_majors": [],
+        "subjects": {
+          "Sistem Informasi": [
+            "Prinsip-Prinsip Sistem Informasi",
+            "Dasar-Dasar Arsitektur Komputer",
+            "Administrasi Bisnis",
+            "Prinsip-Prinsip Manajemen",
+            "Sistem-Sistem Perusahaan"
+          ],
+          "Ilmu Komputer": [
+            "Pengantar Sistem Digital",
+            "Pengantar Organisasi Komputer",
+            "Matematika Dasar 2",
+            "Pemrograman Lanjut",
+            "Teori Bahasa &amp; Automata"
+          ]
+        },
+        "careers": [
+          "Programmer",
+          "Teknisi Jaringan",
+          "Database Administrator",
+          "Teknisi Komputer",
+          "Pendidik",
+          "Instruktur"
+        ],
+        "majors": {
+          "s2": [
+            {
+              "name": "Ilmu Komputer",
+              "study_plans": []
+            },
+            {
+              "name": "Teknologi Informasi",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Komputer",
+              "study_plans": []
+            }
+          ],
+          "s1": [
+            {
+              "name": "Ilmu Komputer (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sistem Informasi (A)",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Sistem Informasi",
+          "Ilmu Komputer",
+          "Teknik Informatika"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Sistem Informasi",
+              "path": "/majors/id-sistem-informasi"
+            },
+            {
+              "name": "Ilmu Komputer",
+              "path": "/majors/id-ilmu-komputer"
+            },
+            {
+              "name": "Teknik Informatika",
+              "path": "/majors/id-teknik-informatika"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c3198565143005200002f",
+        "slug": "fakultas-kedokteran-gigi",
+        "name": "Fakultas Kedokteran Gigi",
+        "description": "Awalnya Fakultas Kedokteran Gigi menginduk pada Fakultas Kedokteran UI dengan Program Studi Gigi dan Mulut, lalu memutuskan untuk memisahkan diri dan berdiri menjadi fakultas pada tahun 1960. Meskipun menjadi kampus keempat yang memiliki FKG akan tetapi FKG UI merupakan fakultas pertama yang menyelenggarakan pengajaran untuk mahasiswa S1 dengan strategi problem based learning.",
+        "applicant_count": 512,
+        "accepted_count": 46,
+        "admission_rate": 9.0,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 36",
+        "static_majors": [],
+        "subjects": {
+          "Semester 7-8": [
+            "Forensik Kedokteran Gigi",
+            "Ilmu Kedokteran Gigi Masy dan Pencegahan",
+            "Manajemen Praktik",
+            "Skills Lab IKGMP",
+            "Karya Ilmiah"
+          ],
+          "Semester 3-4": [
+            "Biostatistik",
+            "Ilmu Kedokteran Gigi Klinik 1",
+            "Praktikum IKGK 1",
+            "Skills Lab Ilmu Kedokteran Gigi Klinik 1",
+            "Ilmu Kedokteran Gigi Klinik 2"
+          ],
+          "Semester 1-2": [
+            "Biologi Oral Dasar",
+            "Pengantar Ilmu Kesehatan dan Ked Gigi",
+            "Ilmu Biomedik Dasar 1",
+            "Komunikasi Kesehatan",
+            "Kolaborasi dan Kerjasama Tim Kesehatan I"
+          ],
+          "Semester 5-6": [
+            "Ilmu Kedokteran Gigi Klinik 3",
+            "Skills Lab Ilmu Kedokteran Gigi Klinik 3",
+            "Elektif 1",
+            "Ilmu Kedokteran Klinik 3",
+            "IPTEKDOKGI Mutakhir"
+          ]
+        },
+        "careers": [
+          "Dokter Gigi",
+          "Dokter Spesialis",
+          "Pendidik",
+          "Peneliti"
+        ],
+        "majors": {
+          "s1": [
+            {
+              "name": "Pendidikan Dokter Gigi (A)",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Ilmu Kedokteran Gigi Dasar",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kedokteran Komunitas",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Kedokteran Gigi",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Pendidikan Dokter Gigi"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Pendidikan Dokter Gigi",
+              "path": "/majors/id-pendidikan-dokter-gigi"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c3198565143005200000c",
+        "slug": "fakultas-ilmu-administrasi",
+        "name": "Fakultas Ilmu Administrasi",
+        "description": "Fakultas Ilmu Administrasi Universitas Indonesia (FIA UI) merupakan fakultas termuda di UI lho. Fakultas ini baru lahir pada 2015 lalu, yang sebelumnya Ilmu Administrasi merupakan salah satu program studi yang tergabung dengan Fakultas Ilmu Sosial dan Politik (FISIP UI). Pemisahaan ini ditujukan agar lebih focus terhadap pengembangan ilmu administrasi, kebijakan, dan tata kelola stratejik.",
+        "applicant_count": 1117,
+        "accepted_count": 80,
+        "admission_rate": 7.2,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 70",
+        "static_majors": [],
+        "subjects": {
+          "Ilmu Administrasi Negara": [
+            "Hukum dan Administrasi Negara",
+            "Kepemimpinan dalam Sektor Publik",
+            "Pembangunan Regional",
+            "Pengembangan Organisasi",
+            "Perencanaan Stratejik dalam Sektor Publik"
+          ],
+          "Ilmu Administrasi Niaga": [
+            "Bisnis Internasional",
+            "Riset Bisnis",
+            "Evaluasi Proyek",
+            "Kepemimpinan",
+            "Manajemen Operasi"
+          ],
+          "Ilmu Administrasi Fiskal": [
+            "Etika Administrasi",
+            "Akuntansi Pajak",
+            "Pajak Daerah dan Retribusi Daerah",
+            "Manajemen Pajak",
+            "Pajak Properti"
+          ]
+        },
+        "careers": [
+          "Pegawai Negeri Sipil",
+          "Pengusaha",
+          "Birokrat",
+          "Peneliti",
+          "Analis",
+          "Pendidik",
+          "Pengamat",
+          "Konsultan"
+        ],
+        "majors": {
+          "s1": [
+            {
+              "name": "Ilmu Administrasi Fiskal (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Administrasi Negara (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Administrasi Niaga (A)",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Administrasi",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Ilmu Administrasi Fiskal",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Administrasi Niaga",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Administrasi Negara",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Ilmu Administrasi",
+          "Administrasi Negara (Publik)",
+          "Administrasi Bisnis (Niaga)"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Ilmu Administrasi",
+              "path": "/majors/id-ilmu-administrasi"
+            },
+            {
+              "name": "Administrasi Negara (Publik)",
+              "path": "/majors/id-administrasi-negara"
+            },
+            {
+              "name": "Administrasi Bisnis (Niaga)",
+              "path": "/majors/id-administrasi-bisnis-niaga"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c31985651430052000031",
+        "slug": "fakultas-kesehatan-masyarakat",
+        "name": "Fakultas Kesehatan Masyarakat",
+        "description": "Fakultas Kesehatan Masyarakat sebelumnya merupakan departemen yang berada di bawah Fakultas Kedokteran. Karena kebutuhan akan tenaga yang mampu menangani masalah kesehatan di masyarakat sangat tinggi, maka dibentuklah FKM pada tahun 1965. Perlu kalian ketahui, FKM UI merupakan Fakultas Kesehatan Masyarakat tertua di Indonesia lho Quipperian.",
+        "applicant_count": 1598,
+        "accepted_count": 118,
+        "admission_rate": 7.4,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 93",
+        "static_majors": [],
+        "subjects": {
+          "Kesehatan Masyarakat": [
+            "Advokasi Kesehatan",
+            "Akuntansi Biaya di Institusi Pelayanan Kesehatan",
+            "Epidemiologi Penyakit Tidak Menular",
+            "Determinan Sosio Budaya",
+            "Bahaya Psikososial dan Stres Kerja"
+          ],
+          "Kesehatan Lingkungan": [
+            "Analisis Dampak Kesehatan Lingkungan",
+            "Analisis Risiko Kesehatan Lingkungan",
+            "Analisis Spasial Kesehatan Lingkungan",
+            "Epidemiologi Kesehatan Lingkungan",
+            "Kesehatan Lingkungan Dalam Bencana"
+          ],
+          "Keselamatan dan Kesehatan Kerja": [
+            "Faktor Manusia dalam K3",
+            "Pengelolaan Limbah Industri",
+            "Investigasi Kecelakaan",
+            "Manajemen Bahaya Fisik di Tempat Kerja",
+            "Manajemen Keselamatan Proses"
+          ],
+          "Gizi": [
+            "Dasar-Dasar Kulinari",
+            "Dietetika Penyakit Degeneratif",
+            "Dietetika Penyakit Infeksi dan Defisiensi",
+            "Isu Gizi Terkini",
+            "Manajemen dan Analisis Data Gizi"
+          ]
+        },
+        "careers": [
+          "Ahli Gizi",
+          "Manager Rumah Sakit",
+          "Konsultan",
+          "Peneliti",
+          "Quality Control",
+          "Pendidik"
+        ],
+        "majors": {
+          "s1": [
+            {
+              "name": "Gizi (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Kesehatan Lingkungan (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Keselamatan dan Kesehatan Kerja (-)",
+              "study_plans": []
+            },
+            {
+              "name": "Kesehatan Masyarakat (-)",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Kesehatan Masyarakat",
+              "study_plans": []
+            },
+            {
+              "name": "Epidemiologi",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Ilmu Kesehatan Masyarakat",
+              "study_plans": []
+            },
+            {
+              "name": "Kajian Administrasi Rumah Sakit",
+              "study_plans": []
+            },
+            {
+              "name": "Epidemiologi",
+              "study_plans": []
+            },
+            {
+              "name": "Keselamatan dan Kesehatan Kerja",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Kesehatan Masyarakat",
+          "Gizi",
+          "Kesehatan Lingkungan",
+          "Administrasi Kesehatan",
+          "Lainnya"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Kesehatan Masyarakat",
+              "path": "/majors/id-kesehatan"
+            },
+            {
+              "name": "Gizi",
+              "path": "/majors/id-gizi"
+            },
+            {
+              "name": "Kesehatan Lingkungan",
+              "path": "/majors/id-kesehatan-lingkungan"
+            },
+            {
+              "name": "Administrasi Kesehatan",
+              "path": "/majors/id-administrasi-kesehatan"
+            },
+            {
+              "name": "Lainnya",
+              "path": "/majors/id-lainnya"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c3198565143005200003f",
+        "slug": "fakultas-psikologi",
+        "name": "Fakultas Psikologi",
+        "description": "Lembaga Pendidikan Asisten Psikologi yang secara langsung berada di bawah pimpinan Universitas Indonesia merupakan cikal bakal dari Fakultas Psikologi lho. Kemudian di tahun 1955, Pendidikan Asisten Psikologi diubah statusnya menjadi Pendidikan Sarjana Psikologi yang secara administratif berada di bawah Fakultas Kedokteran Universitas Indonesia. Namun pada 1 Juli 1960, Pendidikan Sarjana Psikologi memisahkan diri dari FKUI dan menjadi fakultas sendiri.",
+        "applicant_count": 1147,
+        "accepted_count": 78,
+        "admission_rate": 6.8,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 54",
+        "static_majors": [],
+        "subjects": {
+          "Semester 5-6": [
+            "Asesmen Psikologis",
+            "Dasar-dasar Intervensi Psikologi",
+            "Psikologi Klinis",
+            "Psikologi Konsumen",
+            "Psikologi Pendidikan"
+          ],
+          "Semester 7-8": [
+            "Konstruksi Alat Ukur Psikologis",
+            "Rancangan Program Intervensi",
+            "Neuropsikologi",
+            "Psikologi Konseling",
+            "Skripsi"
+          ],
+          "Semester 1-2": [
+            "Sejarah dan Aliran Psikologi",
+            "Psikologi Perkembangan",
+            "Psikologi Umum",
+            "Penulisan Ilmiah",
+            "Manusia dan Masyarakat Indonesia"
+          ],
+          "Semester 3-4": [
+            "Filsafat Psikologi",
+            "Metode Wawancara",
+            "Metodologi Penelitian &amp; Stat Inferensial 1",
+            "Psikologi Industri &amp; Organisasi",
+            "Psikologi Lintas Budaya"
+          ]
+        },
+        "careers": [
+          "Psikolog",
+          "HRD",
+          "Konselor",
+          "Peneliti",
+          "Instruktur",
+          "Pendidik"
+        ],
+        "majors": {
+          "s2": [
+            {
+              "name": "Psikologi Terapan",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Psikologi",
+              "study_plans": []
+            },
+            {
+              "name": "Psikologi Profesi",
+              "study_plans": []
+            }
+          ],
+          "s1": [
+            {
+              "name": "Ilmu Psikologi (A)",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Psikologi",
+              "study_plans": []
+            }
+          ],
+          "profession": [
+            {
+              "name": "Psikologi",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Psikologi"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Psikologi",
+              "path": "/majors/id-psikologi"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c3198565143005200001d",
+        "slug": "fakultas-ilmu-keperawatan",
+        "name": "Fakultas Ilmu Keperawatan",
+        "description": "Sebelum berdiri sebagai fakultas, ilmu keperawatan merupakan salah satu program studi yang berada di bawah Fakultas Kedokteran Universitas Indonesia. Namun karena tuntutan kebutuhan tenaga ahli di bidang keperawatan, maka pada 1995 didirikanlah Fakultas Ilmu Keperawatan. Pada 1998, FIK UI menerapkan kurikulum ners dengan dua tahap program pendidikan yakni akademik dan profesi.",
+        "applicant_count": 487,
+        "accepted_count": 44,
+        "admission_rate": 9.0,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 45",
+        "static_majors": [],
+        "subjects": {
+          "Semester 1-2": [
+            "Asuhan Keperawatan HIV/AIDS",
+            "Bahasa Inggris Keperawatan I",
+            "Komunikasi Kesehatan",
+            "Etika dan Hukum dalam Bidang Kesehatan",
+            "Konsep Dasar Keperawatan II"
+          ],
+          "Semester 7-8": [
+            "Kolaborasi dan Kerjasama Tim Kesehatan 2",
+            "Praktikum Klinik II",
+            "Praktikum Klinik III",
+            "Praktikum Klinik IV",
+            "Manajemen Keperawatan"
+          ],
+          "Semester 5-6": [
+            "Keperawatan Anak II",
+            "Keperawatan Kesehatan Masalah Perkotaan",
+            "Bahasa Inggris Keperawatan IV",
+            "Keperawatan Gerontik",
+            "Praktikum V"
+          ],
+          "Semester 3-4": [
+            "Ilmu Dasar Keperawatan",
+            "Keperawatan Dewasa I",
+            "Promosi Kesehatan",
+            "Bahasa Inggris Keperawatan II",
+            "Keperawatan Anak I"
+          ]
+        },
+        "careers": [
+          "Perawat",
+          "Peneliti",
+          "Pendidik"
+        ],
+        "majors": {
+          "s3": [
+            {
+              "name": "Ilmu Keperawatan",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Keperawatan Maternitas",
+              "study_plans": []
+            },
+            {
+              "name": "Keperawatan Jiwa",
+              "study_plans": []
+            },
+            {
+              "name": "Keperawatan Komunitas",
+              "study_plans": []
+            },
+            {
+              "name": "Medikal Bedah",
+              "study_plans": []
+            },
+            {
+              "name": "Kepemimpinan dan Manajemen Perawatan",
+              "study_plans": []
+            },
+            {
+              "name": "Keperawatan Anak",
+              "study_plans": []
+            }
+          ],
+          "s1": [
+            {
+              "name": "Ilmu Keperawatan (A)",
+              "study_plans": []
+            }
+          ],
+          "specialist": [
+            {
+              "name": "Medikal Bedah",
+              "study_plans": []
+            },
+            {
+              "name": "Keperawatan Anak",
+              "study_plans": []
+            },
+            {
+              "name": "Keperawatan Maternitas",
+              "study_plans": []
+            },
+            {
+              "name": "Keperawatan Jiwa",
+              "study_plans": []
+            },
+            {
+              "name": "Keperawatan Komunitas",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Ilmu Keperawatan"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Ilmu Keperawatan",
+              "path": "/majors/id-ilmu-keperawatan"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c3198565143005200002d",
+        "slug": "fakultas-kedokteran",
+        "name": "Fakultas Kedokteran",
+        "description": "Keberadaan FKUI sangat lekat hubungannya dengan Rumah Sakit Pusat Cipto Mangunkusomo. Sejak awal didirikan, rumah sakit ini telah difungsikan menjadi rumah sakit pendidikan yang digunakan oleh mahasiswa FKUI dalam memantapkan kualitas lulusan. Pada tahun 2019 mendatang, bangunan yang awalnya bertitel Centrale Burgenlijke Ziekenhuis ini akan mencapai usia satu abad lho Quipperian. Luar biasa ya!",
+        "applicant_count": 981,
+        "accepted_count": 70,
+        "admission_rate": 7.1,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 54",
+        "static_majors": [],
+        "subjects": {
+          "Semester 1-2 (Pendidikan Dasar)": [
+            "Komunikasi Kesehatan",
+            "Ilmu Biomedikal Dasar",
+            "Ilmu Saraf",
+            "Sel, Genetik, &amp; Molekul",
+            "Metodologi Riset Kesehatan"
+          ],
+          "Semester 3-7/8 (Pendidikan Medis)": [
+            "Kardiovaskular",
+            "Respirasi",
+            "Klinis Dasar",
+            "Neurologi &amp; Psikiatri",
+            "Metabolis &amp; Endrokrin"
+          ],
+          "Semester 9-11 (Pendidikan Klinis)": [
+            "Ilmu Bedah &amp; ATLS",
+            "Praktik Klinis Radiologi",
+            "Praktik Klinis Neurologi",
+            "Praktik Klinis Psikiatri",
+            "Pre-intership Gawat Darurat"
+          ]
+        },
+        "careers": [
+          "Dokter",
+          "Medical Assistant",
+          "Manajer Rumah Sakit",
+          "Nutritionist",
+          "Peneliti"
+        ],
+        "majors": {
+          "s2": [
+            {
+              "name": "Ilmu Gizi",
+              "study_plans": []
+            },
+            {
+              "name": "Kedokteran Kerja",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Biomedik",
+              "study_plans": []
+            },
+            {
+              "name": "Pendidikan Kedokteran",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Gizi",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kedokteran",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Biomedik",
+              "study_plans": []
+            }
+          ],
+          "s1": [
+            {
+              "name": "Ilmu Kedokteran (A)",
+              "study_plans": []
+            }
+          ],
+          "specialist": [
+            {
+              "name": "Ilmu Penyakit Syaraf",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Penyakit Paru-Paru",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Penyakit Mata",
+              "study_plans": []
+            },
+            {
+              "name": "Radiologi",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Penyakit THT",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Penyakit Dalam",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kedokteran Jiwa",
+              "study_plans": []
+            },
+            {
+              "name": "Patologi Klinik",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Rehabilitasi Medik",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kedokteran Olahraga",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kesehatan Anak",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Penyakit Jantung",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Bedah Saraf",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Bedah Plastik",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Bedah",
+              "study_plans": []
+            },
+            {
+              "name": "Patologi Anatomik",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Bedah Orthopaedi",
+              "study_plans": []
+            },
+            {
+              "name": "Obstetri dan Ginekologi",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kedokteran Forensik",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Penyakit Kulit dan Kelamin",
+              "study_plans": []
+            },
+            {
+              "name": "Farmakologi Klinik",
+              "study_plans": []
+            },
+            {
+              "name": "Anestesiologi",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Bedah Urulogi",
+              "study_plans": []
+            },
+            {
+              "name": "Mikrobiologi Klinik",
+              "study_plans": []
+            },
+            {
+              "name": "Kedokteran Okupasi",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Gizi",
+          "Pendidikan Dokter"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Gizi",
+              "path": "/majors/id-gizi"
+            },
+            {
+              "name": "Pendidikan Dokter",
+              "path": "/majors/id-pendidikan-dokter"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c31985651430052000002",
+        "slug": "fakultas-ekonomi-dan-bisnis",
+        "name": "Fakultas Ekonomi dan Bisnis",
+        "description": "Awal mulanya, Jurusan Hukum, Sosial, serta Ekonomi di Universitas Indonesia tergabung dalam satu kesatuan lhoQuipperian. Saat itu semuanya menginduk dalam Fakultas Hukum UI. Kemudian, pada 18 September 1950, Jurusan Sosial-Ekonomi di FH UI memisahkan diri dan lahirlah Fakultas Ekonomi dan Bisnis UI. Keberadaan fakultas ini diharapkan dapat memenuhi kebutuhan akan keberadaan ahli perekonomian di Indonesia, yang kala itu baru saja lepas dari penjajahan.",
+        "applicant_count": 3036,
+        "accepted_count": 235,
+        "admission_rate": 7.7,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 180",
+        "static_majors": [],
+        "subjects": {
+          "Manajemen": [
+            "Analisis Laporan Keuangan",
+            "Akuntansi Manajemen untuk Bisnis",
+            "Bisnis Ritel",
+            "Ekonomi Kemiskinan",
+            "Manajemen Kinerja dan Balas Jasa SDM"
+          ],
+          "Akuntansi": [
+            "Akuntansi Biaya",
+            "Akuntansi Keuangan",
+            "Akuntansi Manajemen",
+            "Analisis dan Perancangan Sistem",
+            "Audit Internal"
+          ],
+          "Bisnis Islam": [
+            "Bisnis Islam",
+            "Bisnis dan Ekonomi Indonesia",
+            "Bisnis Global Islam",
+            "Ekonomi Keuangan Islam",
+            "Takaful dan Re-takaful"
+          ],
+          "Ilmu Ekonomi": [
+            "Administrasi dan Perencanaan Pembangunan",
+            "Akuntansi Pemerintahan",
+            "Analisa Kuantitatif Dampak Kebijakan",
+            "Analisis Proyek Publik",
+            "Ekonomi Industri"
+          ],
+          "Ekonomi Islam": [
+            "Akuntansi Islam",
+            "Bisnis Islam",
+            "Fiqh Muamalah",
+            "Fiqh Riba dan Gharar",
+            "Keuangan Publik Islam"
+          ]
+        },
+        "careers": [
+          "Akuntan",
+          "Auditor",
+          "Analis Bisnis",
+          "Ekonom",
+          "Manajer",
+          "Konsultan",
+          "Peneliti",
+          "Pengusaha",
+          "Pendidik"
+        ],
+        "majors": {
+          "s1": [
+            {
+              "name": "Ilmu Ekonomi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Akuntansi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Bisnis Islam (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Ekonomi Islam (-)",
+              "study_plans": []
+            },
+            {
+              "name": "Manajemen (A)",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Ilmu Ekonomi",
+              "study_plans": []
+            },
+            {
+              "name": "Ekonomi Kependudukan & Ketenagakerjaan",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Akuntansi",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Manajemen",
+              "study_plans": []
+            },
+            {
+              "name": "Manajemen",
+              "study_plans": []
+            },
+            {
+              "name": "Akuntansi",
+              "study_plans": []
+            },
+            {
+              "name": "Perencanaan & Kebijakan Publik",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Manajemen",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Akuntansi",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Ekonomi",
+              "study_plans": []
+            }
+          ],
+          "profession": [
+            {
+              "name": "Akuntansi",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Manajemen",
+          "Akuntansi",
+          "Bisnis",
+          "Ilmu Ekonomi",
+          "Ekonomi Syariah",
+          "Lainnya"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Manajemen",
+              "path": "/majors/id-manajemen"
+            },
+            {
+              "name": "Akuntansi",
+              "path": "/majors/id-akuntansi"
+            },
+            {
+              "name": "Bisnis",
+              "path": "/majors/id-bisnis"
+            },
+            {
+              "name": "Ilmu Ekonomi",
+              "path": "/majors/id-ilmu-ekonomi"
+            },
+            {
+              "name": "Ekonomi Syariah",
+              "path": "/majors/id-ekonomi-syariah"
+            },
+            {
+              "name": "Lainnya",
+              "path": "/majors/id-lainnya"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c31985651430052000008",
+        "slug": "fakultas-farmasi",
+        "name": "Fakultas Farmasi",
+        "description": "Tahukan Quipperian bahwa Fakultas Farmasi dulunya merupakan jurusan dari Fakultas Matematika dan Ilmu Pengetahuan Alam. Nah, saat ini Farmasi resmi menjadi fakultas mulai tahun 2011 guna menunjang pendirian rumpun ilmu kesehatan yang terintegrasi di lingkungan Universitas Indonesia.",
+        "applicant_count": 574,
+        "accepted_count": 51,
+        "admission_rate": 8.9,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 24",
+        "static_majors": [],
+        "subjects": {
+          "Semester 3-4": [
+            "Analisis Bahan Baku Farmasi",
+            "Analisis Fisikokimia",
+            "Farmakognosi 1",
+            "Farmakologi Dasar",
+            "Mikrobiologi Farmasi"
+          ],
+          "Semester 7-8": [
+            "Bioanalisis Farmasi",
+            "Dasar Perancangan &amp; Teknik Sintesis Obat",
+            "Praktek Pelayanan Kefarmasian",
+            "Teknologi Sediaan Bahan Alam",
+            "Praktikum Sed Steril &amp; Aseptik Dispensing"
+          ],
+          "Semester 5-6": [
+            "Biofarmasetika",
+            "Eksipien Dalam Sediaan Farmasi",
+            "Teknologi Kosmetika",
+            "Manajemen Pengelolaan Sediaan Farmasi",
+            "Stabilitas Obat"
+          ],
+          "Semester 1-2": [
+            "Analisis Farmasi Dasar",
+            "Ilmu Biomedik Dasar",
+            "Kimia Organik",
+            "Etika dan Hukum dalam Bidang Kesehatan",
+            "Komunikasi Kesehatan"
+          ]
+        },
+        "careers": [
+          "Apoteker",
+          "Peneliti",
+          "Pendidik"
+        ],
+        "majors": {
+          "s1": [
+            {
+              "name": "Farmasi (A)",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Farmasi",
+              "study_plans": []
+            },
+            {
+              "name": "Herbal",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Farmasi",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Farmasi"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Farmasi",
+              "path": "/majors/id-farmasi"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c31985651430052000041",
+        "slug": "fakultas-teknik",
+        "name": "Fakultas Teknik",
+        "description": "Fakultas Teknik Universitas Indonesia (FTUI) dibuka pertama kali pada tahun 1964. Ada yang menarik nihQuipperian, pada awal mula pendiriannnya FTUI tak lepas dari tawaran Perkumpulan Insinyur Indonesia kepada Presiden Soekarno untuk membenahi jalanan protokol di Jakarta guna menyambut Pekan Olahraga Internasional Ganefo. Setelahnya, muncullah ide membentuk Fakultas Teknik di Jakarta sehingga tidak perlu jauh-jauh ke Bandung untuk belajar teknik.",
+        "applicant_count": 4339,
+        "accepted_count": 388,
+        "admission_rate": 8.9,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 297",
+        "static_majors": [],
+        "subjects": {
+          "Teknik Mesin": [
+            "Motor Pembakaran Dalam",
+            "Pembangkitan Daya Termal",
+            "Pengembangan Produk Komposit",
+            "Getaran Mekanis",
+            "Audit Energi"
+          ],
+          "Arsitektur": [
+            "Ekologi Perkotaan",
+            "Fabrikasi Digital",
+            "Keseharian dan Arsitektur",
+            "Lingkungan Daur Hidup",
+            "Perancangan Arsitektur"
+          ],
+          "Arsitektur Interior": [
+            "Gaya Hidup &amp; Desain Arsitektur Interior",
+            "Perancangan Arsitektur Interior",
+            "Objek Spasial",
+            "Tata Cahaya untuk Ars Interior",
+            "Ruang Pamer dan Narasi"
+          ],
+          "Teknik Industri": [
+            "Analisa Kelayakan Industri",
+            "Kapita Selekta Industri",
+            "Keterampilan Interpersonal",
+            "Konfigurasi Sistem Manufaktur",
+            "Manajemen Hubungan Konsumen"
+          ],
+          "Teknologi Bioproses": [
+            "Bioenergitika",
+            "Biokatalisis",
+            "Rekayasa Biokimia",
+            "Rekayasa Genetika",
+            "Separasi"
+          ],
+          "Teknik Komputer": [
+            "Probabilitas dan Proses Stokastik",
+            "Rekayasa Perangkat Lunak",
+            "Sistem Embedded",
+            "Kapita Selekta Teknik Komputer",
+            "Interaksi Manusia dan Komputer"
+          ],
+          "Teknik Metalurgi dan Material": [
+            "Metalurgi Ekstraksi Non Ferrous",
+            "Mekanika Perpatahan &amp; Analisis Kegagalan",
+            "Desain Rekayasa Produk",
+            "Desain Pabrik Metalurgi",
+            "Baja Khusus &amp; Paduan Super"
+          ],
+          "Teknik Sipil": [
+            "Mekanika Tanah",
+            "Perancangan Geometrik Jalan",
+            "Perancangan Infrastruktur Keairan",
+            "Struktur Baja",
+            "Lingkungan Berkelanjutan"
+          ],
+          "Teknik Perkapalan": [
+            "Perancangan Kamar Mesin Kapal",
+            "Proses Manufaktur Kapal",
+            "Sistem Fluida &amp; Perpipaan Kapal",
+            "Sistem Kelistrikan Kapal",
+            "Hukum dan Peraturan Kemaritiman"
+          ],
+          "Teknik Lingkungan": [
+            "Ilmu Ukur Tanah",
+            "Mekanika Fluida",
+            "Mekanika Struktur",
+            "Pencemaran Udara",
+            "Perencanaan Pengelolaan Limbah Padat Terpadu"
+          ],
+          "Teknik Elektro": [
+            "Algoritma dan Pemrograman",
+            "Antena dan Propagasi",
+            "Instalasi Listrik Bangunan",
+            "Komputasi Numerik",
+            "Komunikasi Optik"
+          ],
+          "Teknik Kimia": [
+            "Ilmu Bahan dan Korosi",
+            "Manajemen Proyek Industri",
+            "Neraca Massa dan Energi",
+            "Pengolahan Gas Bumi",
+            "Perancangan Pabrik"
+          ]
+        },
+        "careers": [
+          "Arsitek",
+          "Insinyur",
+          "Konsultan",
+          "Peneliti",
+          "Pengusaha",
+          "Pendidik"
+        ],
+        "majors": {
+          "s1": [
+            {
+              "name": "Teknik Kimia (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Perkapalan (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Metalurgi dan Material (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknologi Bioproses (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Sipil (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Arsitektur (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Mesin (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Lingkungan (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Industri (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Arsitektur Interior (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Komputer (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Elektro (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Biomedis",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Teknik Kimia",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Elektro",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Industri",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Metalurgi dan Material",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Sipil",
+              "study_plans": []
+            },
+            {
+              "name": "Opto Elektronika dan Aplikasi Laser",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Mesin",
+              "study_plans": []
+            },
+            {
+              "name": "Arsitektur",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Arsitektur",
+              "study_plans": []
+            },
+            {
+              "name": "Opto Elektronika dan Aplikasi Laser",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Elektro",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Metalurgi dan Material",
+              "study_plans": []
+            },
+            {
+              "name": "Teknologi Biomedis",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Sipil",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Mesin",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Industri",
+              "study_plans": []
+            },
+            {
+              "name": "Teknik Kimia",
+              "study_plans": []
+            }
+          ],
+          "profession": [
+            {
+              "name": "Arsitektur",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Teknik Kimia",
+          "Teknik Sipil",
+          "Teknik Lingkungan",
+          "Teknik Mesin",
+          "Ilmu Teknik",
+          "Teknik Elektro",
+          "Teknik Pertambangan",
+          "Arsitektur",
+          "Teknik Industri",
+          "Teknik Perkapalan",
+          "Teknik Metalurgi",
+          "Teknik Biomedis",
+          "Desain Interior"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Teknik Kimia",
+              "path": "/majors/id-teknik-kimia"
+            },
+            {
+              "name": "Teknik Sipil",
+              "path": "/majors/id-teknik-sipil"
+            },
+            {
+              "name": "Teknik Lingkungan",
+              "path": "/majors/id-teknik-lingkungan"
+            },
+            {
+              "name": "Teknik Mesin",
+              "path": "/majors/id-teknik-mesin"
+            },
+            {
+              "name": "Ilmu Teknik",
+              "path": "/majors/id-ilmu-teknik"
+            },
+            {
+              "name": "Teknik Elektro",
+              "path": "/majors/id-teknik-elektro"
+            },
+            {
+              "name": "Teknik Pertambangan",
+              "path": "/majors/id-teknik-pertambangan"
+            },
+            {
+              "name": "Arsitektur",
+              "path": "/majors/id-arsitektur"
+            },
+            {
+              "name": "Teknik Industri",
+              "path": "/majors/id-teknik-industri-"
+            },
+            {
+              "name": "Teknik Perkapalan",
+              "path": "/majors/id-teknik-perkapalan"
+            },
+            {
+              "name": "Teknik Metalurgi",
+              "path": "/majors/id-teknik-metalurgi"
+            },
+            {
+              "name": "Teknik Biomedis",
+              "path": "/majors/id-teknik-biomedis"
+            },
+            {
+              "name": "Desain Interior",
+              "path": "/majors/id-desain-interior"
+            }
+          ]
+        }
+      },
+      {
+        "id": "591c3198565143005200000a",
+        "slug": "fakultas-hukum",
+        "name": "Fakultas Hukum",
+        "description": "Awalnya Fakultas Hukum bernama Fakultas Hukum dan Ilmu Pengetahuan Kemasyarakatan lhoQuipperrian. Namun pada 1966, Ilmu Pengetahuan Kemasyarakatan itu memisahkan diri dari Fakultas Hukum. Fakultas Hukum pun berdiri sendiri dan fokus memberikan pengetahuan soal hukum yang sangat penting bagi kehidupan berbangsa dan bernegara,",
+        "applicant_count": 1634,
+        "accepted_count": 165,
+        "admission_rate": 10.1,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 90",
+        "static_majors": [],
+        "subjects": {
+          "Semester 7-8": [
+            "Arbitrase",
+            "Akuntansi untuk Ahli Hukum",
+            "Klinik Hukum",
+            "Perancangan Peraturan Negara",
+            "Praktik Diplomasi"
+          ],
+          "Semester 5-6": [
+            "Hukum Acara Peradilan Tata Usaha Negara",
+            "Hukum Telematika",
+            "Hukum Perdata Internasional",
+            "Hukum Pajak",
+            "Hukum Hubungan Kerja &amp; Hubungan Industrial"
+          ],
+          "Semester 3-4": [
+            "Sosiologi Hukum",
+            "Wanita dan Hukum",
+            "Penerapan Asas-Asas Hukum Pidana",
+            "Lembaga-Lembaga Negara di Indonesia",
+            "Hukum Sanksi Ditinjau dari Hukum Pidana"
+          ],
+          "Semester 1-2": [
+            "Ilmu Negara",
+            "Manusia dan Masyrakat Indonesia",
+            "Pengantar Hukum Indonesia",
+            "Pengantar Ilmu Hukum",
+            "Ilmu Negara"
+          ]
+        },
+        "careers": [
+          "Notaris",
+          "Pengacara",
+          "Analis Hukum",
+          "Hakim",
+          "Legal Advisory",
+          "Konsultan",
+          "Peneliti",
+          "Pengusaha",
+          "Pendidik"
+        ],
+        "majors": {
+          "s1": [
+            {
+              "name": "Ilmu Hukum (A)",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Hukum",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Ilmu Hukum",
+              "study_plans": []
+            },
+            {
+              "name": "Kenotariatan",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Ilmu Hukum"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Ilmu Hukum",
+              "path": "/majors/id-ilmu-hukum"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5a5497fc8020391fb400135a",
+        "slug": "fakultas-pendidikan-vokasi",
+        "name": "Fakultas Pendidikan Vokasi",
+        "description": "Fakultas Vokasi merupakan fakultas baru yang didirikan di tahun 2008 dan membawahi berbagai jurusan diploma yang ada di Universitas Indonesia. Program vokasi mengarahkan untuk menguasai kemampuan dalam bidang kerja tertentu sehingga dapat langsung diserap sebagai tenaga kerja di industri atau swasta. Inti dari program vokasi adalah lebih mengutamakan keterampilan dan keahlian dibandingkan dengan kuliah teori.",
+        "applicant_count": 0,
+        "accepted_count": 0,
+        "admission_rate": 0.0,
+        "admission_source": "-",
+        "static_majors": [],
+        "subjects": {
+          "Administrasi Keuangan dan Perbankan": [
+            "Administrasi Perbankan Syariah",
+            "Akuntansi Bank",
+            "Analisis Laporan Keuangan",
+            "Analisis dan Pengelolaan Kredit",
+            "E-Business &amp; Teknologi Perbankan"
+          ],
+          "Fisioterapi": [
+            "Terapi Latihan",
+            "Aktivitas Fungsional Terapi rekreasi",
+            "Dasar Rehabilitasi Medik Klinis",
+            "Etika Profesi &amp; Dokumentasi Fisioterapi",
+            "Fisioterapi Neuromuskular (Magang)"
+          ],
+          "Manajemen Informasi dan Dokumen": [
+            "Aplikasi Internet",
+            "Bisnis Informasi",
+            "Kemasan Informasi",
+            "Bahasa Inggris untuk Profesi Arsiparis",
+            "Pemasaran Jasa Informasi"
+          ],
+          "Perumahsakitan": [
+            "Dasar Kerumahsakitan",
+            "Bahasa Inggris Keuangan, Akuntansi &amp; SDM RS",
+            "Internal Audit Rumah Sakit",
+            "K3 dan Sanitasi RS",
+            "Kesekretarisan Medik &amp; Protokoler RS"
+          ],
+          "Komunikasi": [
+            "Aplikasi Desain Grafis",
+            "Bauran Promosi",
+            "Hubungan dengan Pelanggan",
+            "Hubungan Internal",
+            "Manajemen Acara"
+          ],
+          "Pariwisata": [
+            "Akuntansi Pariwisata",
+            "Bahasa Inggris Profesi Pariwisata",
+            "Ekowisata",
+            "Geografi Pariwisata",
+            "Kapita Selekta Bisnis Event"
+          ],
+          "Okupasi Terapi": [
+            "Bahasa Inggris Okupasi Terapi",
+            "Konsep Okupasi Terapi",
+            "Manajemen Pelayanan Okupasi Terapi",
+            "Neurologi Klinis",
+            "OT pada Gangguan Psikososial"
+          ],
+          "Administrasi Perkantoran dan Sekretaris": [
+            "Manajemen Kegiatan dan Keprotokolan",
+            "Administrasi Perkantoran",
+            "Hukum Perdata Dagang",
+            "Hubungan Masyarakat",
+            "Keprotokolan"
+          ],
+          "Administrasi Asuransi dan Aktuaria": [
+            "Administrasi Asuransi Syariah",
+            "Aktuaria dalam Asuransi Kesehatan &amp; Kerugian",
+            "Akuntansi Dana Pensiun dan Asuransi Jiwa",
+            "Komputerisasi dan Pemrograman Aktuaria",
+            "Investasi Dana Pensiun dan Asuransi Jiwa"
+          ],
+          "Akuntansi": [
+            "Akuntansi Ekuitas dan Pelaporan Keuangan",
+            "Akuntansi Jasa dan Dagang",
+            "Akuntansi Keuangan Lanjutan",
+            "Akuntansi Sektor Publik Non Pemerintahan",
+            "Akuntansi Sektor Publik"
+          ],
+          "Administrasi Perpajakan": [
+            "Akuntansi Biaya",
+            "Akuntansi Keuangan",
+            "Akuntansi Pajak",
+            "Aplikasi Komputer untuk Bisnis",
+            "Bahasa Inggris untuk Perpajakan"
+          ]
+        },
+        "careers": [
+          "Jurnalis",
+          "Humas",
+          "Admin",
+          "Sekretaris",
+          "Tour Guide",
+          "Aktuarian",
+          "Terapis"
+        ],
+        "majors": {
+          "d4": [
+            {
+              "name": "Manajemen Bisnis Pariwisata (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Okupasi Terapi (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Manajemen Rekod dan Arsip (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Fisioterapi (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Produksi Media",
+              "study_plans": []
+            },
+            {
+              "name": "Bisnis Kreatif",
+              "study_plans": []
+            }
+          ],
+          "d3": [
+            {
+              "name": "Administrasi Rumah Sakit (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Akuntansi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Administrasi Perkantoran dan Sekrearis (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Administrasi Keuangan dan Perbankan (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Administrasi Perpajakan (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Administrasi Asuransi dan Aktuaria (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Hubungan Masyarakat",
+              "study_plans": []
+            },
+            {
+              "name": "Penyiaran Multimedia",
+              "study_plans": []
+            },
+            {
+              "name": "Periklanan Kreatif",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Pariwisata",
+          "Ilmu Administrasi",
+          "Akuntansi",
+          "Perpajakan",
+          "Perbankan",
+          "Fisioterapi",
+          "Broadcasting (Penyiaran)",
+          "Bisnis",
+          "Administrasi Perkantoran",
+          "Public Relations",
+          "Administrasi Kesehatan",
+          "Kearsipan",
+          "Lainnya",
+          "Multimedia",
+          "Administrasi Perpajakan"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Pariwisata",
+              "path": "/majors/id-pariwisata"
+            },
+            {
+              "name": "Ilmu Administrasi",
+              "path": "/majors/id-ilmu-administrasi"
+            },
+            {
+              "name": "Akuntansi",
+              "path": "/majors/id-akuntansi"
+            },
+            {
+              "name": "Perpajakan",
+              "path": "/majors/id-perpajakan"
+            },
+            {
+              "name": "Perbankan",
+              "path": "/majors/id-perbankan"
+            },
+            {
+              "name": "Fisioterapi",
+              "path": "/majors/id-fisioterapi"
+            },
+            {
+              "name": "Broadcasting (Penyiaran)",
+              "path": "/majors/id-broadcasting-penyiaran"
+            },
+            {
+              "name": "Bisnis",
+              "path": "/majors/id-bisnis"
+            },
+            {
+              "name": "Administrasi Perkantoran",
+              "path": "/majors/id-administrasi-perkantoran"
+            },
+            {
+              "name": "Public Relations",
+              "path": "/majors/id-public-relations"
+            },
+            {
+              "name": "Administrasi Kesehatan",
+              "path": "/majors/id-administrasi-kesehatan"
+            },
+            {
+              "name": "Kearsipan",
+              "path": "/majors/id-kearsipan"
+            },
+            {
+              "name": "Lainnya",
+              "path": "/majors/id-lainnya"
+            },
+            {
+              "name": "Multimedia",
+              "path": "/majors/id-multimedia"
+            },
+            {
+              "name": "Administrasi Perpajakan",
+              "path": "/majors/id-administrasi-perpajakan"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5a5497fc8020391fb400132c",
+        "slug": "fakultas-ilmu-sosial-ilmu-politik",
+        "name": "Fakultas Ilmu Sosial Ilmu Politik",
+        "description": "Fakultas Ilmu Sosial dan Ilmu Politik Universitas Indonesia (FISIP UI) yang didirikan sejak 1968, merupakan salah satu fakultas dengan jumlah program studi dan mahasiswa terbanyak di Universitas Indonesia lho Quipperian. Pendirian fakultas ini dimulai dengan didirikannya Jurusan Publisistik pada Fakultas Hukum dan Ilmu Pengetahuan Kemasyarakatan Universitas Indonesia yang ditujukan untuk meningkatkan mutu pers.",
+        "applicant_count": 4159,
+        "accepted_count": 239,
+        "admission_rate": 5.7,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 162",
+        "static_majors": [],
+        "subjects": {
+          "Sosiologi": [
+            "Dinamika Kelompok Kecil",
+            "Gender dan Struktur Sosial",
+            "Modal Sosial dan Civil Society",
+            "Perencanaan &amp; Evaluasi Program Sosial",
+            "Perspektif Sosiologi Tentang Masalah Sosial"
+          ],
+          "Antropologi Sosial": [
+            "Bahasa, Kebudayaan, dan Kognisi",
+            "Etnografi Asia Timur",
+            "Hubungan Antar Suku Bangsa",
+            "Antropologi Agama",
+            "Antropologi Politik"
+          ],
+          "Ilmu Kesejahteraan Sosial": [
+            "Analisis Masalah Sosial",
+            "Filsafat dan Etika Kesejahteraan Sosial",
+            "Kesejahteraan Sosial dalam Sektor Industri",
+            "Manajemen Organisasi Pelayanan Kemanusiaan",
+            "Masalah Kemiskinan"
+          ],
+          "Ilmu Komunikasi": [
+            "Analisis Konsumen",
+            "Etika Media",
+            "Kebijakan dan Regulasi",
+            "Komunikasi dan Industri Budaya",
+            "Pemasaran Digital"
+          ],
+          "Hubungan Internasional": [
+            "Dinamika Kawasan Timur Tengah dan Afrika",
+            "Strategi Pertahanan Indonesia",
+            "Australia dan Pasifik Barat Daya",
+            "Masalah-Masalah Identitas Dalam Globalisasi",
+            "Komunitas Ekonomi ASEAN"
+          ],
+          "Kriminologi": [
+            "Hak Asasi Manusia Dalam Perspektif Kriminologi",
+            "Intelijen dan Investigasi Kejahatan",
+            "Konflik Sosial dan Gangguan Ketertiban Umum",
+            "Teori Kriminologi Post-Modern dan Budaya",
+            "Kenakalan Anak"
+          ],
+          "Ilmu Politik": [
+            "Nasionalisme dan Resolusi Konflik Etnis",
+            "Pemerintahan dan Politik Desa",
+            "Pemikiran Politik Barat",
+            "Pemikiran Politik Indonesia",
+            "Pemikiran Politik Islam"
+          ]
+        },
+        "careers": [
+          "Jurnalis",
+          "Humas",
+          "Politikus",
+          "Peneliti",
+          "Analis",
+          "Pendidik",
+          "Pengamat",
+          "Sosiolog"
+        ],
+        "majors": {
+          "s1": [
+            {
+              "name": "Ilmu Kesejahteraan Sosial (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Kriminologi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Hubungan Internasional (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Antropologi Sosial (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Komunikasi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Politik (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sosiologi (A)",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Kriminologi",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Politik",
+              "study_plans": []
+            },
+            {
+              "name": "Sosiologi",
+              "study_plans": []
+            },
+            {
+              "name": "Antropologi",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Komunikasi",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kesejahteraan Sosial",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Ilmu Politik (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Hubungan Internasional (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Komunikasi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sosiologi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Antropologi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Kriminologi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Kajian Terorisme dalam Keamanan Internasional (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kesejahteraan Sosial (A)",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Ilmu Hukum",
+          "Hubungan Internasional",
+          "Ilmu Komunikasi",
+          "Ilmu Politik",
+          "Kesejahteraan Sosial",
+          "Sosiologi",
+          "Antropologi",
+          "Kriminologi"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Ilmu Hukum",
+              "path": "/majors/id-ilmu-hukum"
+            },
+            {
+              "name": "Hubungan Internasional",
+              "path": "/majors/id-hubungan-internasional"
+            },
+            {
+              "name": "Ilmu Komunikasi",
+              "path": "/majors/id-ilmu-komunikasi"
+            },
+            {
+              "name": "Ilmu Politik",
+              "path": "/majors/id-ilmu-politik"
+            },
+            {
+              "name": "Kesejahteraan Sosial",
+              "path": "/majors/id-kesejahteraan-sosial"
+            },
+            {
+              "name": "Sosiologi",
+              "path": "/majors/id-sosiologi"
+            },
+            {
+              "name": "Antropologi",
+              "path": "/majors/id-antropologi"
+            },
+            {
+              "name": "Kriminologi",
+              "path": "/majors/id-kriminologi"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5a5497fc8020391fb4001315",
+        "slug": "fakultas-matematika-dan-ilmu-pengetahuan-alam",
+        "name": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+        "description": "Sebelum menjadi Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) pada 1982, Quipperian perlu tahu bahwa fakultas ini dulunya bernama Fakultas Ilmu Pasti dan Ilmu Alam. Pada masa berdiri, FMIPA hanya memiliki 4 jurusan. Seiring dengan perkembangan ilmu pengetahuan, FMIPA menambah 4 jurusan baru lainnya.",
+        "applicant_count": 3239,
+        "accepted_count": 278,
+        "admission_rate": 8.6,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 213",
+        "static_majors": [],
+        "subjects": {
+          "Biologi": [
+            "Ekologi",
+            "Fisiologi",
+            "Entomologi",
+            "Biologi Sel",
+            "Biologi laut"
+          ],
+          "Matematika": [
+            "Aljabar Linier Elementer",
+            "Pemodelan matematis",
+            "Pemrograman Dinamik",
+            "Geometri",
+            "Perancangan dan Analis Alogaritma"
+          ],
+          "Statistika": [
+            "Analisis Multivariat",
+            "Analisis Survival",
+            "Matematika Aktuaria",
+            "Model Kerugian",
+            "Rancangan Percobaan"
+          ],
+          "Geografi": [
+            "Oseanografi",
+            "Pembangunan wilayah",
+            "Pemetaan GPS",
+            "Pemodelan SIG",
+            "Geografi Sejarah"
+          ],
+          "Geofisika": [
+            "Metode Geolistrik dan Elektromagnetik",
+            "Metode Gravitasi dan Magnetik",
+            "Pengindraan Jauh",
+            "Sedimentologi &amp; Stratigrafi",
+            "Seismologi"
+          ],
+          "Kimia": [
+            "Sampling &amp; Preparasi",
+            "Spektroskopi Molekul",
+            "Stereokimia",
+            "Logam Transisi &amp; Senyawa Koordinasi",
+            "Mineral Alumina Silika"
+          ],
+          "Geologi": [
+            "Analisis Sumur Minyak Bumi",
+            "Eksplorasi Minyak dan Gas Bumi",
+            "Geologi Indonesia",
+            "Geologi Keberencanaan",
+            "Geologi Panas Bumi"
+          ],
+          "Fisika": [
+            "Fisika Keramik",
+            "Fisika Komputasi",
+            "Fisika Matematika",
+            "Fisika Mekanika dan Panas",
+            "Fisika Modern"
+          ]
+        },
+        "careers": [
+          "Pendidik",
+          "Apoteker",
+          "Konsultan",
+          "Peneliti",
+          "Kontraktor"
+        ],
+        "majors": {
+          "s1": [
+            {
+              "name": "Biologi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Geografi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Fisika (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Statistika (-)",
+              "study_plans": []
+            },
+            {
+              "name": "Kimia (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Geologi (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Matematika (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Geofisika (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Aktuaria",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Matematika",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kelautan",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Bahan",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Fisika",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kefarmasian",
+              "study_plans": []
+            },
+            {
+              "name": "Geografi",
+              "study_plans": []
+            },
+            {
+              "name": "Biologi",
+              "study_plans": []
+            },
+            {
+              "name": "Herbal",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kimia",
+              "study_plans": []
+            }
+          ],
+          "s3": [
+            {
+              "name": "Ilmu Fisika",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Material",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Kimia",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Farmasi",
+              "study_plans": []
+            },
+            {
+              "name": "Biologi",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Biologi",
+          "Geografi",
+          "Teknik Geologi",
+          "Geofisika",
+          "Fisika",
+          "Kimia",
+          "Matematika",
+          "Statistika",
+          "Farmasi",
+          "Aktuaria",
+          "Kelautan"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Biologi",
+              "path": "/majors/id-biologi"
+            },
+            {
+              "name": "Geografi",
+              "path": "/majors/id-geografi"
+            },
+            {
+              "name": "Teknik Geologi",
+              "path": "/majors/id-teknik-geologi"
+            },
+            {
+              "name": "Geofisika",
+              "path": "/majors/id-geofisika"
+            },
+            {
+              "name": "Fisika",
+              "path": "/majors/id-fisika"
+            },
+            {
+              "name": "Kimia",
+              "path": "/majors/id-kimia"
+            },
+            {
+              "name": "Matematika",
+              "path": "/majors/id-matematika"
+            },
+            {
+              "name": "Statistika",
+              "path": "/majors/id-statistika"
+            },
+            {
+              "name": "Farmasi",
+              "path": "/majors/id-farmasi"
+            },
+            {
+              "name": "Aktuaria",
+              "path": "/majors/id-aktuaria"
+            },
+            {
+              "name": "Kelautan",
+              "path": "/majors/id-kelautan"
+            }
+          ]
+        }
+      },
+      {
+        "id": "5a5497fc8020391fb40012e8",
+        "slug": "fakultas-ilmu-pengetahuan-budaya",
+        "name": "Fakultas Ilmu Pengetahuan Budaya",
+        "description": "Fakultas Ilmu Pengetahuan Budaya Universitas Indonesia (FIB UI) semula bernama Fakultas Sastra Universitas Indonesia. Dulunya, fakultas ini hanya memiliki empat jurusan yakni Sastra Indonesia, Sastra Prancis, Sastra Cina, dan Arkeologi. Namun, sesuai dengan perkembangan ilmu dan kebutuhan masyarakat kini jurusan di FIB UI mencapai 15 jurusan.",
+        "applicant_count": 5594,
+        "accepted_count": 306,
+        "admission_rate": 5.5,
+        "admission_source": "SBMPTN 2019 | Kuota 2020: 253",
+        "static_majors": [],
+        "subjects": {
+          "Sastra Prancis": [
+            "Multikulturalisme di Prancis",
+            "Metodologi Pengajaran Bahasa Prancis",
+            "Pengkajian Kesusastraan Frankofon",
+            "Kemahiran Berbahasa Prancis",
+            "Pengkajian Bahasa Prancis"
+          ],
+          "Ilmu Filsafat": [
+            "Eksistensialisme",
+            "Etika",
+            "Filsafat Akal Budi",
+            "Filsafat Ketuhanan",
+            "Metode-metode Filsafat"
+          ],
+          "Sastra Inggris": [
+            "Dasar-Dasar Linguistik Bahasa Inggris",
+            "Bahasa Inggris",
+            "Kajian Budaya Populer",
+            "Kajian Sastra dan Budaya Inggris Tematis",
+            "Kritik Sastra Inggris"
+          ],
+          "Sastra Rusia": [
+            "Bahasa Rusia",
+            "Kajian Drama Rusia",
+            "Morfologi Rusia",
+            "Bahasa Rusia untuk Bisnis",
+            "Etnis dan Nasionalisme di Rusia"
+          ],
+          "Sastra Jerman": [
+            "Bahasa Jerman",
+            "Fonetik dan Fonologi Jerman",
+            "Kesusastraan Jerman",
+            "Budaya Urban di Jerman",
+            "Ragam Bahasa Jerman Profesional"
+          ],
+          "Sastra Indonesia": [
+            "Bahasa Isyarat Indonesia",
+            "Bahasa Indonesia Jurnalistik",
+            "Bahasa Melayu Klasik",
+            "Gender dalam Sastra Indonesia",
+            "Morfologi Bahasa Indonesia"
+          ],
+          "Sastra Belanda": [
+            "Bahasa Belanda",
+            "Hubungan Indonesia-Belanda",
+            "Morfologi dan Sintaksis Belanda",
+            "Kritik Sastra Belanda",
+            "Pengkajian Teks Sastra Belanda"
+          ],
+          "Bahasa &amp; Kebudayaan Korea": [
+            "Bahasa Korea",
+            "Budaya Perusahaan Korea",
+            "Fonetik dan Fonologi Bahasa Korea",
+            "Masyarakat dan Kebudayaan Korea",
+            "Metode Pengajaran Bahasa Korea"
+          ],
+          "Arkeologi": [
+            "Arkeologi Ekologi",
+            "Ikonografi",
+            "Permasalahan dan Pelestarian Cagar Budaya",
+            "Kerajaan-Kerajaan Kuno di Indonesia",
+            "Aspek Hukum dalam Manajemen Cagar Budaya"
+          ],
+          "Sastra Jawa": [
+            "Aksara Daerah",
+            "Bahasa dalam Kebudayaan Jawa",
+            "Bahasa Jawa Kuna",
+            "Bahasa Sansekerta",
+            "Dinamika Kesusastraan Jawa"
+          ],
+          "Ilmu Sejarah": [
+            "Bahasa Sumber Sejarah",
+            "Historiografi",
+            "Retorika Sejarah",
+            "Sejarah Hubungan AS-Indonesia",
+            "Sejarah Asia Tenggara Modern"
+          ],
+          "Sastra Jepang": [
+            "Bahasa Jepang",
+            "Morfologi Jepang",
+            "Etos dan Pandangan Hidup Orang Jepang",
+            "Geografi dan Pariwisata Jepang",
+            "Globalisasi Jepang"
+          ],
+          "Ilmu Perpustakaan": [
+            "Administrasi Arsip",
+            "Aplikasi Teknologi Pengelolaan Informasi",
+            "Komunikasi Profesional Informasi",
+            "Literasi Informasi",
+            "Manajemen Koleksi"
+          ],
+          "Sastra Cina": [
+            "Bahasa Cina",
+            "Bahasa Cina Klasik Dasar",
+            "Historiografi Cina",
+            "Morfologi dan Sintaksis Cina",
+            "Sejarah Cina Era Pascadinasti"
+          ],
+          "Sastra Arab": [
+            "Bahasa Arab",
+            "Bahasa Arab Pers",
+            "Gerakan dan Pemikiran Islam",
+            "Kajian Prosa Arab",
+            "Kritik Sastra Arab"
+          ]
+        },
+        "careers": [
+          "Penerjemah",
+          "Arkeolog",
+          "Konsultan",
+          "Peneliti",
+          "Pengusaha",
+          "Pendidik",
+          "Jurnalis"
+        ],
+        "majors": {
+          "s3": [
+            {
+              "name": "Doktoral Ilmu Filsafat",
+              "study_plans": []
+            },
+            {
+              "name": "Doktoral Ilmu Susastra",
+              "study_plans": []
+            },
+            {
+              "name": "Doktoral Arkeologi",
+              "study_plans": []
+            }
+          ],
+          "s1": [
+            {
+              "name": "Ilmu Perpustakaan (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Jawa (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Belanda (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Inggris (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Ilmu Filsafat (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Rusia (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Jerman (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Arab (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Cina (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Arkeologi (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Indonesia (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Jepang (B)",
+              "study_plans": []
+            },
+            {
+              "name": "Bahasa & Kebudayaan Korea (C)",
+              "study_plans": []
+            },
+            {
+              "name": "Sejarah (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Sastra Prancis (A)",
+              "study_plans": []
+            },
+            {
+              "name": "Bahasa dan Kebudayaan Korea",
+              "study_plans": []
+            }
+          ],
+          "s2": [
+            {
+              "name": "Magister Ilmu Filsafat",
+              "study_plans": []
+            },
+            {
+              "name": "Magister Ilmu Sejarah",
+              "study_plans": []
+            },
+            {
+              "name": "Magister Ilmu Susastra",
+              "study_plans": []
+            },
+            {
+              "name": "Magistier Ilmu Perpustakaam & Informasi",
+              "study_plans": []
+            },
+            {
+              "name": "Magister Arkeologi",
+              "study_plans": []
+            },
+            {
+              "name": "Magister Linguistik",
+              "study_plans": []
+            },
+            {
+              "name": "Magister Asia Tenggara",
+              "study_plans": []
+            }
+          ]
+        },
+        "study_fields": [
+          "Sejarah",
+          "Arkeologi",
+          "Filsafat",
+          "Sastra &amp; Bahasa Asing",
+          "Sastra &amp; Bahasa Daerah",
+          "Sastra Arab",
+          "Sastra Indonesia",
+          "Sastra Inggris",
+          "Sastra Jepang",
+          "Sastra Korea",
+          "Sastra Cina",
+          "Sastra Jawa"
+        ],
+        "related_majors": {
+          "list": [
+            {
+              "name": "Sejarah",
+              "path": "/majors/id-sejarah"
+            },
+            {
+              "name": "Arkeologi",
+              "path": "/majors/id-arkeologi"
+            },
+            {
+              "name": "Filsafat",
+              "path": "/majors/id-filsafat"
+            },
+            {
+              "name": "Sastra &amp; Bahasa Asing",
+              "path": "/majors/id-sastra-bahasa-asing"
+            },
+            {
+              "name": "Sastra &amp; Bahasa Daerah",
+              "path": "/majors/id-sastra-bahasa-daerah"
+            },
+            {
+              "name": "Sastra Arab",
+              "path": "/majors/id-sastra-arab"
+            },
+            {
+              "name": "Sastra Indonesia",
+              "path": "/majors/id-sastra-indonesia"
+            },
+            {
+              "name": "Sastra Inggris",
+              "path": "/majors/id-sastra-inggris"
+            },
+            {
+              "name": "Sastra Jepang",
+              "path": "/majors/id-sastra-jepang"
+            },
+            {
+              "name": "Sastra Korea",
+              "path": "/majors/id-sastra-korea"
+            },
+            {
+              "name": "Sastra Cina",
+              "path": "/majors/id-sastra-cina"
+            },
+            {
+              "name": "Sastra Jawa",
+              "path": "/majors/id-sastra-jawa"
+            }
+          ]
+        }
+      }
+    ],
+    "campuses": [
+      {
+        "id": "5a54a277802039384e0000a8",
+        "address": "Jl. Salemba Raya No. 6, Jakarta Pusat, 10430",
+        "email": "kampus2@ui.ac.id",
+        "name": "Kampus 2",
+        "phone_number": "021-7270021",
+        "coordinate": "-6.1950247,106.84875469999997",
+        "province": "DKI Jakarta",
+        "faculties": [
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c3198565143005200002f",
+            "name": "Fakultas Kedokteran Gigi",
+            "school_id": null,
+            "slug": "fakultas-kedokteran-gigi",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c3198565143005200002d",
+            "name": "Fakultas Kedokteran",
+            "school_id": null,
+            "slug": "fakultas-kedokteran",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          }
+        ]
+      },
+      {
+        "id": "5a54a277802039384e0000a7",
+        "address": "Kampus Baru UI, Kota Depok, Jakarta",
+        "email": "humas-ui@ui.ac.id",
+        "name": "Kampus 1",
+        "phone_number": "021-7270020",
+        "coordinate": "-6.354315499999999,106.82776089999993",
+        "province": "Jawa Barat",
+        "faculties": [
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c3198565143005200001f",
+            "name": "Fakultas Ilmu Komputer",
+            "school_id": null,
+            "slug": "fakultas-ilmu-komputer",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c3198565143005200000c",
+            "name": "Fakultas Ilmu Administrasi",
+            "school_id": null,
+            "slug": "fakultas-ilmu-administrasi",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c31985651430052000031",
+            "name": "Fakultas Kesehatan Masyarakat",
+            "school_id": null,
+            "slug": "fakultas-kesehatan-masyarakat",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c3198565143005200003f",
+            "name": "Fakultas Psikologi",
+            "school_id": null,
+            "slug": "fakultas-psikologi",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c3198565143005200001d",
+            "name": "Fakultas Ilmu Keperawatan",
+            "school_id": null,
+            "slug": "fakultas-ilmu-keperawatan",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c31985651430052000002",
+            "name": "Fakultas Ekonomi dan Bisnis",
+            "school_id": null,
+            "slug": "fakultas-ekonomi-dan-bisnis",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c31985651430052000008",
+            "name": "Fakultas Farmasi",
+            "school_id": null,
+            "slug": "fakultas-farmasi",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c31985651430052000041",
+            "name": "Fakultas Teknik",
+            "school_id": null,
+            "slug": "fakultas-teknik",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "591c3198565143005200000a",
+            "name": "Fakultas Hukum",
+            "school_id": null,
+            "slug": "fakultas-hukum",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "5a5497fc8020391fb400135a",
+            "name": "Fakultas Pendidikan Vokasi",
+            "school_id": null,
+            "slug": "fakultas-pendidikan-vokasi",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "5a5497fc8020391fb400132c",
+            "name": "Fakultas Ilmu Sosial Ilmu Politik",
+            "school_id": null,
+            "slug": "fakultas-ilmu-sosial-ilmu-politik",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "5a5497fc8020391fb4001315",
+            "name": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+            "school_id": null,
+            "slug": "fakultas-matematika-dan-ilmu-pengetahuan-alam",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          },
+          {
+            "accepted_count": 0,
+            "applicant_count": 0,
+            "campus_ids": [],
+            "careers": [],
+            "id": "5a5497fc8020391fb40012e8",
+            "name": "Fakultas Ilmu Pengetahuan Budaya",
+            "school_id": null,
+            "slug": "fakultas-ilmu-pengetahuan-budaya",
+            "static_majors": [],
+            "study_field_id": null,
+            "study_field_ids": []
+          }
+        ]
+      }
+    ],
+    "banners": [],
+    "videos": [],
+    "registration_open": false,
+    "registration_url": "",
+    "registration_tracking": false
+  },
+  "testimonies": []
+}
