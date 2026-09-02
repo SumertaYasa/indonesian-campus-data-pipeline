@@ -1,6 +1,6 @@
-# 💻 EduGates: Panduan Antarmuka CLI (*CLI Usage Guide*)
+# 💻 Panduan Antarmuka CLI (*CLI Usage Guide*)
 
-Dokumen ini berisi referensi lengkap perintah baris perintah (*Command Line Interface*), opsi flag, parameter input, serta contoh skenario penggunaan untuk menjalankan pipeline **EduGates**.
+Dokumen ini berisi referensi lengkap perintah baris perintah (*Command Line Interface*), opsi flag, parameter input, serta contoh skenario penggunaan untuk menjalankan pipeline **Indonesian Campus Data Pipeline**.
 
 ---
 

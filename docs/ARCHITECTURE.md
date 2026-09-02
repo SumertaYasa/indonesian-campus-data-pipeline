@@ -1,6 +1,6 @@
-# 🏛️ EduGates: Arsitektur Sistem & Alur Data (*System Architecture*)
+# 🏛️ Arsitektur Sistem & Alur Data (*System Architecture*)
 
-Dokumen ini menjelaskan rancangan arsitektur teknis, pola modul (*design patterns*), struktur direktori, dan strategi resolusi data bertingkat (*multi-tier resolution*) yang digunakan dalam pipeline **EduGates**.
+Dokumen ini menjelaskan rancangan arsitektur teknis, pola modul (*design patterns*), struktur direktori, dan strategi resolusi data bertingkat (*multi-tier resolution*) yang digunakan dalam pipeline **Indonesian Campus Data Pipeline**.
 
 ---
 

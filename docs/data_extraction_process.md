@@ -1,13 +1,13 @@
-# Dokumentasi Proses Ekstraksi Data Kampus (EduGates)
+# Dokumentasi Proses Ekstraksi Data Kampus Indonesia
 
 ## 1. Kontrol Dokumen
 
 | Metadata                        | Keterangan                                    |
 | :------------------------------ | :-------------------------------------------- |
-| **Nama Proyek**                 | **EduGates**                                  |
+| **Nama Proyek**                 | **Indonesian Campus Data Pipeline**           |
 | **Sprint**                      | Sprint 1 – _Scrapping & Build Data Structure_ |
 | **Nama Tugas**                  | Extract Data Campuss                          |
-| **Penanggung Jawab / Engineer** | **I Nengah Sumerta Yasa (Yasa)**              |
+| **Penanggung Jawab / Engineer** | **Yasa**                                      |
 | **Peran**                       | Technical Data Engineer                       |
 | **Status Dokumen**              | **Final / Approved**                          |
 | **Versi Dokumen**               | 1.0.0                                         |
@@ -19,7 +19,7 @@
 
 Tujuan dari proses ekstraksi data ini adalah:
 
-1. **Membangun Master Dataset Kampus Indonesia:** Mengumpulkan, memfilter, dan menstandarisasi data seluruh perguruan tinggi di Indonesia yang berstatus operasional resmi (**Aktif** dan **Pembinaan**) untuk kebutuhan basis data platform EduGates.
+1. **Membangun Master Dataset Kampus Indonesia:** Mengumpulkan, memfilter, dan menstandarisasi data seluruh perguruan tinggi di Indonesia yang berstatus operasional resmi (**Aktif** dan **Pembinaan**) untuk kebutuhan basis data platform kampus.
 2. **Pengayaan Data Multi-Sumber (_Multi-Source Enrichment_):** Memperkaya data legalitas dasar dari PDDIKTI dengan titik koordinat spasial (_PostGIS WKT_), website resmi terverifikasi, logo institusi beresolusi tinggi, serta narasi profil sejarah kelembagaan.
 3. **Kepatuhan Skema Basis Data:** Memastikan struktur dataset akhir selaras 100% dengan skema tabel relasional `KAMPUS` (Tabel 3.1 pada `docs/data-structure.md`) tanpa ada anomali format data (_missing coordinates_, _broken images_, atau _inaccurate biographies_).
 

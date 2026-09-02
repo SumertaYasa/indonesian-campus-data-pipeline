@@ -1,6 +1,6 @@
-# 🚀 EduGates: Panduan Setup & Instalasi Lingkungan (*Setup Guide*)
+# 🚀 Panduan Setup & Instalasi Lingkungan (*Setup Guide*)
 
-Panduan ini ditujukan bagi anggota tim, *developer*, atau *collaborator* baru yang akan menjalankan, mengembangkan, atau menguji pipeline data **EduGates (Indonesian Higher Education Data Engine)** pada mesin lokal.
+Panduan ini ditujukan bagi anggota tim, *developer*, atau *collaborator* baru yang akan menjalankan, mengembangkan, atau menguji pipeline data **Indonesian Higher Education Data Engine** pada mesin lokal.
 
 ---
 
@@ -106,7 +106,7 @@ Pipeline memerlukan Google Maps API Key untuk pengayaan koordinat geospasial dan
 
 > **Cara Memperoleh Google Maps API Key:**
 > 1. Buka [Google Cloud Console](https://console.cloud.google.com/).
-> 2. Buat project baru (misal: `EduGates-Data`).
+> 2. Buat project baru (misal: `Campus-Data`).
 > 3. Buka menu **APIs & Services** $\rightarrow$ **Library**, lalu aktifkan **Places API (New)** dan **Geocoding API**.
 > 4. Buat kredensial **API Key** di menu **Credentials**, lalu tempelkan kuncinya ke file `.env`.
 
